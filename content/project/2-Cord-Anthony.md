@@ -30,4 +30,4 @@ caption = ""
 
 Cord is originally from Michigan, but has lived in the Raleigh area for most of his life. Cord’s main interests lie in the realm of both civil and biological engineering and how their respective methods affect the environment.
 
-Cord's research focuses on evaluating the exposure and perceived importance of climate education among undergraduate and graduate students. 
+Cord is working with Lauren to investigate how the exposure and perceived importance of climate education varies among undergraduate and graduate students across the country.

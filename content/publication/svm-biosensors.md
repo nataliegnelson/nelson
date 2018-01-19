@@ -11,9 +11,9 @@ publication_short = ""
 selected = false
 title = "Post hoc support vector machine learning for biosensors based on weak protein-ligand interactions"
 
-[[url_custom]]
-name = ""
-url = ""
+#[[url_custom]]
+#name = ""
+#url = ""
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
