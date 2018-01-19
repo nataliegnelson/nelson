@@ -1,9 +1,9 @@
 +++
 # Date this page was created.
-date = "2017-10-21"
+date = "2018-01-19"
 
 # Project title.
-title = "(1) Lise Montefiore"
+title = "Lise Montefiore"
 
 # Project summary to display on homepage.
 summary = "Provost Graduate Research Fellow & PhD Student"

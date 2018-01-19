@@ -1,9 +1,9 @@
 +++
 # Date this page was created.
-date = "2017-01-19"
+date = "2018-01-02"
 
 # Project title.
-title = "(4) Lauren Bartek"
+title = "Lauren Bartek"
 
 # Project summary to display on homepage.
 summary = "Undergraduate Research Assistant"
