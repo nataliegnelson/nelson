@@ -32,8 +32,6 @@ Alice Alonso graduated with her PhD in Agricultural and Biological Engineering f
 
 At NCSU, Dr. Alonso is analyzing Landsat imagery to quantify spatiotemporal trends in river plume areas of estuaries in North Carolina and Florida.
 
-{{% staticref "files/Alice_Alonso_CV.pdf" %}}CV{{% /staticref %}}
-  
-[LinkedIn](https://www.linkedin.com/in/alicealonso/)
-
+{{% staticref "files/Alice_Alonso_CV.pdf" %}}CV{{% /staticref %}}  
+[LinkedIn](https://www.linkedin.com/in/alicealonso/)  
 [@alonsoalice1](https://twitter.com/alonsoalice1)
