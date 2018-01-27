@@ -32,6 +32,6 @@ Alice Alonso graduated with her PhD in Agricultural and Biological Engineering f
 
 {{% staticref "files/Alice_Alonso_CV.pdf" %}}CV{{% /staticref %}}
 
-[LinkedIn]{www.linkedin.com/in/alicealonso}
+[LinkedIn](https://www.linkedin.com/in/alicealonso/)
 
-Twitter: [@alonsoalice1]{https://twitter.com/alonsoalice1}
+Twitter: [@alonsoalice1](https://twitter.com/alonsoalice1)
