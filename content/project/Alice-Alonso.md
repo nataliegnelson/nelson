@@ -30,7 +30,10 @@ caption = ""
 
 Alice Alonso graduated with her PhD in Agricultural and Biological Engineering from the University of Florida, and received her MS from the Universite catholique de Louvain in Belgium. Her past and current research seeks to advance the understanding of the interactions between human activities and water resources across spatiotemporal scales. She mines field and remote sensing data to observe and characterise the ways human-water-land systems co-evolve. The overarching goal of her work is to create robust predictive models and generate new knowledge that supports the management of coupled human and natural systems to increase their water sustainability and resilience.
 
-{{% staticref "files/Alice_Alonso_CV.pdf" %}}CV{{% /staticref %}}
+At NCSU, Dr. Alonso is analyzing Landsat imagery to quantify spatiotemporal trends in river plume areas of estuaries in North Carolina and Florida.
 
+{{% staticref "files/Alice_Alonso_CV.pdf" %}}CV{{% /staticref %}}
+  
 [LinkedIn](https://www.linkedin.com/in/alicealonso/)
+
 [@alonsoalice1](https://twitter.com/alonsoalice1)
