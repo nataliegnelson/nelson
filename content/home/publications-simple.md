@@ -13,21 +13,21 @@ widget = "custom"
 weight = 20
 
 +++
-**Peer-reviewed**
+**Peer-reviewed:**
 
-**NG Nelson**, R Muñoz-Carpena, EJ Phlips, D Kaplan, P Sucsy, J Hendrickson (2018), Revealing biotic and abiotic controls of harmful algal blooms in a shallow subtropical lake through statistical machine learning, Environmental Science & Technology (in press). 
+**NG Nelson**, R Muñoz-Carpena, EJ Phlips, D Kaplan, P Sucsy, J Hendrickson (2018), Revealing biotic and abiotic controls of harmful algal blooms in a shallow subtropical lake through statistical machine learning, *Environmental Science & Technology* (in press). 
 
-**NG Nelson**, R Muñoz-Carpena, PJ Neale, M Tzortziou, JP Megonigal (2017), [Temporal variability in the importance of hydrologic, biotic, and climatic descriptors of dissolved oxygen dynamics in a shallow tidal-marsh creek](doi:10.1002/2016WR020196), Water Resources Research, 53, 7103-7120. doi:10.1002/2016WR020196    
+**NG Nelson**, R Muñoz-Carpena, PJ Neale, M Tzortziou, JP Megonigal (2017), [Temporal variability in the importance of hydrologic, biotic, and climatic descriptors of dissolved oxygen dynamics in a shallow tidal-marsh creek](doi:10.1002/2016WR020196), *Water Resources Research*, 53, 7103-7120. doi:10.1002/2016WR020196    
 
-**NG Nelson**, R Muñoz-Carpena, and EJ Phlips (2017), [A novel quantile method reveals spatiotemporal shifts in phytoplankton descriptors between bloom and non-bloom conditions in a subtropical estuary](doi:10.3354/meps12054), Marine Ecology Progress Series, 567:57-78. doi:10.3354/meps12054  
+**NG Nelson**, R Muñoz-Carpena, and EJ Phlips (2017), [A novel quantile method reveals spatiotemporal shifts in phytoplankton descriptors between bloom and non-bloom conditions in a subtropical estuary](doi:10.3354/meps12054), *Marine Ecology Progress Series*, 567:57-78. doi:10.3354/meps12054  
 
-**Submitted and Under Review**  
+**Submitted and Under Review:**  
 
-EJ Phlips, S Badylak, R Chamberlain, L Hall, J Hart, C Jacoby, M Lasi, J Lockwood, J Miller, L Morris, and **NG Nelson**, Cyclical patterns and a regime shift in phytoplankton blooms in a restricted sub-tropical lagoon: A 20-year perspective. Submitted January 22, 2018.  
+EJ Phlips, S Badylak, R Chamberlain, L Hall, J Hart, C Jacoby, M Lasi, J Lockwood, J Miller, L Morris, and **NG Nelson**, Cyclical patterns and a regime shift in phytoplankton blooms in a restricted sub-tropical lagoon: A 20-year perspective. *Submitted*, January 22, 2018.  
 
-Y Rong, AV Padron, KJ Hagerty, **NG Nelson**, S Chi, NO Keyhani, J Katz, S Datta, C Gomes, and ES McLamore, Post hoc support vector machine learning for biosensors based on weak protein-ligand interactions. Submitted January 11, 2018.  
+Y Rong, AV Padron, KJ Hagerty, **NG Nelson**, S Chi, NO Keyhani, J Katz, S Datta, C Gomes, and ES McLamore, Post hoc support vector machine learning for biosensors based on weak protein-ligand interactions. *Submitted*, January 11, 2018.  
 
-**Technical Reports (non-referreed)**  
+**Technical Reports (non-referreed):**  
 
 **NG Nelson**, S Ward, and D Ward (2017), Implications of altered freshwater flows on estuarine fish and shellfish: a case study of the Lower Suwannee River. White paper prepared for the Florida Climate Institute, UF Levin College of Law, and UF/IFAS Nature Coast Biological Station.  
 
