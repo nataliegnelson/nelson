@@ -15,11 +15,11 @@ weight = 20
 +++
 **Peer-reviewed:**
 
-**NG Nelson**, R Muñoz-Carpena, EJ Phlips, D Kaplan, P Sucsy, J Hendrickson (2018), Revealing biotic and abiotic controls of harmful algal blooms in a shallow subtropical lake through statistical machine learning, *Environmental Science & Technology* (in press). 
+**NG Nelson**, [R Muñoz-Carpena](http://abe.ufl.edu/carpena/index.shtml), [EJ Phlips](http://plants.ifas.ufl.edu/associated-personnel/edward-phlips/), [D Kaplan](https://www.watershedecology.org/), P Sucsy, J Hendrickson (2018), Revealing biotic and abiotic controls of harmful algal blooms in a shallow subtropical lake through statistical machine learning, *Environmental Science & Technology* (in press). 
 
-**NG Nelson**, R Muñoz-Carpena, PJ Neale, M Tzortziou, JP Megonigal (2017), [Temporal variability in the importance of hydrologic, biotic, and climatic descriptors of dissolved oxygen dynamics in a shallow tidal-marsh creek](http://onlinelibrary.wiley.com/doi/10.1002/2016WR020196/abstract), *Water Resources Research*, 53, 7103-7120. doi:10.1002/2016WR020196    
+**NG Nelson**, [R Muñoz-Carpena](http://abe.ufl.edu/carpena/index.shtml), [PJ Neale](https://serc.si.edu/users/patrick-neale/nealep6122002), [M Tzortziou](https://www.mariatzortziou.com/), [JP Megonigal](https://serc.si.edu/users/patrick-megonigal/megonigalp6122002) (2017), [Temporal variability in the importance of hydrologic, biotic, and climatic descriptors of dissolved oxygen dynamics in a shallow tidal-marsh creek](http://onlinelibrary.wiley.com/doi/10.1002/2016WR020196/abstract), *Water Resources Research*, 53, 7103-7120. doi:10.1002/2016WR020196    
 
-**NG Nelson**, R Muñoz-Carpena, and EJ Phlips (2017), [A novel quantile method reveals spatiotemporal shifts in phytoplankton descriptors between bloom and non-bloom conditions in a subtropical estuary](http://www.int-res.com/abstracts/meps/v567/p57-78/), *Marine Ecology Progress Series*, 567:57-78. doi:10.3354/meps12054  
+**NG Nelson**, [R Muñoz-Carpena](http://abe.ufl.edu/carpena/index.shtml), [EJ Phlips](http://plants.ifas.ufl.edu/associated-personnel/edward-phlips/) (2017), [A novel quantile method reveals spatiotemporal shifts in phytoplankton descriptors between bloom and non-bloom conditions in a subtropical estuary](http://www.int-res.com/abstracts/meps/v567/p57-78/), *Marine Ecology Progress Series*, 567:57-78. doi:10.3354/meps12054  
 
 **Submitted and under review:**  
 
