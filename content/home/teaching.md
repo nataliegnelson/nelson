@@ -14,11 +14,11 @@ weight = 60
 
 +++
 
-Courses:
+**Courses:**
 
 - ABE 495 / 590: "Applied Statistics for Environmental and Agricultural Data Analysis", Spring 2018
 
-Guest lectures:
+**Guest lectures:**
 
 - Applying for the NSF Graduate Research Fellowship
 - Principles of data visualization
