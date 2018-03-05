@@ -15,7 +15,7 @@ weight = 20
 +++
 **Peer-reviewed:**
 
-**NG Nelson**, [R Muñoz-Carpena](http://abe.ufl.edu/carpena/index.shtml), [EJ Phlips](http://plants.ifas.ufl.edu/associated-personnel/edward-phlips/), [D Kaplan](https://www.watershedecology.org/), P Sucsy, J Hendrickson (2018), Revealing biotic and abiotic controls of harmful algal blooms in a shallow subtropical lake through statistical machine learning, *Environmental Science & Technology* (in press). 
+**NG Nelson**, [R Muñoz-Carpena](http://abe.ufl.edu/carpena/index.shtml), [EJ Phlips](http://plants.ifas.ufl.edu/associated-personnel/edward-phlips/), [D Kaplan](https://www.watershedecology.org/), P Sucsy, J Hendrickson (2018), [Revealing biotic and abiotic controls of harmful algal blooms in a shallow subtropical lake through statistical machine learning](https://pubs.acs.org/doi/10.1021/acs.est.7b05884), *Environmental Science & Technology* (in press). 
 
 **NG Nelson**, [R Muñoz-Carpena](http://abe.ufl.edu/carpena/index.shtml), [PJ Neale](https://serc.si.edu/users/patrick-neale/nealep6122002), [M Tzortziou](https://www.mariatzortziou.com/), [JP Megonigal](https://serc.si.edu/users/patrick-megonigal/megonigalp6122002) (2017), [Temporal variability in the importance of hydrologic, biotic, and climatic descriptors of dissolved oxygen dynamics in a shallow tidal-marsh creek](http://onlinelibrary.wiley.com/doi/10.1002/2016WR020196/abstract), *Water Resources Research*, 53, 7103-7120. doi:10.1002/2016WR020196    
 
