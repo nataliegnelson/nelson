@@ -13,10 +13,8 @@ widget = "custom"
 weight = 20
 
 +++
-
-*&#42; Graduate student,  &#42;&#42; Undergraduate student*
-
-**Peer-reviewed:**
+**Peer-reviewed:**  
+*&#42; Graduate student,  &#42;&#42; Undergraduate student*  
 
 **NG Nelson**, L Montefiore&#42;, C Anthony&#42;&#42;, [L Merriman](https://www.bae.ncsu.edu/people/lsmerrim), [E Kuster](http://www.southcentralclimate.org/index.php/pages/person/emma_kuster), [GA Fox](https://www.bae.ncsu.edu/people/gafox2), Undergraduate exposure to climate education: national trends and opportunities for curricular improvements, *Submitted*
 
