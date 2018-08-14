@@ -28,6 +28,6 @@ caption = ""
 
 +++
 
-Sam is currently a Sophomore at NC State studying for a BS in Biological Engineering with concentrations in Environmental and Agricultural Engineering. Sam also has interests in completing a minor in Art and Design or Physics. He is originally fromLos Angeles, California, but has lived most of his life in Rockville, Maryland. Last summer, Sam had the opportunity to intern for the U.S. Environmental Protection Agency, Office of Water where he worked under of the Office of Science and Technology in the Health and Ecological Criteria Division to analyze Human Health and Aquatic Life Ambient Water Quality Criteria and complete Harmful Algal Bloom surveillance.
+Sam is currently a Sophomore at NC State studying for a BS in Biological Engineering with concentrations in Environmental and Agricultural Engineering. Sam also has interests in completing a minor in Art and Design or Physics. He is originally from Los Angeles, California, but has lived most of his life in Rockville, Maryland. Last summer, Sam had the opportunity to intern for the U.S. Environmental Protection Agency's Office of Water where he worked under the Office of Science and Technology in the Health and Ecological Criteria Division to analyze Human Health and Aquatic Life Ambient Water Quality Criteria and complete Harmful Algal Bloom surveillance.
 
 Sam's research focuses on quantifying variability in estuarine dissolved oxygen and pH across sub-hourly to seasonal scales.

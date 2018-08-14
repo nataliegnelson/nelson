@@ -13,7 +13,12 @@ widget = "custom"
 weight = 20
 
 +++
+
+*&#42; Graduate student,  &#42;&#42; Undergraduate student*
+
 **Peer-reviewed:**
+
+**NG Nelson**, L Montefiore&#42;, C Anthony&#42;&#42;, L Merriman, E Kuster, GA Fox, Undergraduate exposure to climate education: national trends and opportunities for curricular improvements, *Submitted*
 
 **NG Nelson**, [R Muñoz-Carpena](http://abe.ufl.edu/carpena/index.shtml), [EJ Phlips](http://plants.ifas.ufl.edu/associated-personnel/edward-phlips/), [D Kaplan](https://www.watershedecology.org/), P Sucsy, J Hendrickson (2018), [Revealing biotic and abiotic controls of harmful algal blooms in a shallow subtropical lake through statistical machine learning](https://pubs.acs.org/doi/10.1021/acs.est.7b05884), *Environmental Science & Technology*, 52(6), 3527-3535. doi: 10.1021/acs.est.7b05884
 

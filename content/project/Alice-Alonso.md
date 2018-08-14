@@ -1,12 +1,12 @@
 +++
 # Date this page was created.
-date = "2018-01-18"
+date = "2018-01-01"
 
 # Project title.
 title = "Alice Alonso, PhD"
 
 # Project summary to display on homepage.
-summary = "Postdoctoral Scholar"
+summary = "Visiting Postdoctoral Scholar (alumna)"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "Alice.jpg"
