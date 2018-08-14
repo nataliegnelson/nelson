@@ -37,4 +37,4 @@ weight = 5
 
 ## Principal Investigator
 
-Natalie Nelson is an Assistant Professor of Data Analytics and Integrated Modeling in the Biological & Agricultural Engineering Department at North Carolina State University. She leads the Biosystems Analytics Lab, studies from which take a data-intensive, management-focused, and interdisciplinary approach to the study of complex biological system dynamics. Biological systems studied in the lab range from agricultural to aquatic, though most investigations focus on estuarine resources.
+Natalie Nelson is an Assistant Professor of Data Analytics and Integrated Modeling in the Biological & Agricultural Engineering Department at North Carolina State University. She leads the Biosystems Analytics Lab, studies from which take a data-intensive, management-focused, and interdisciplinary approach to the study of complex biological system dynamics. Dr. Nelson is particularly interested in questions related to estuarine and coastal water quality, land-sea connectivity, and the influence of global and local change on agroecosystem productivity in the Atlantic-Gulf Coastal Plains.
