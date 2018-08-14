@@ -18,7 +18,7 @@ weight = 20
 
 **Peer-reviewed:**
 
-**NG Nelson**, L Montefiore&#42;, C Anthony&#42;&#42;, L Merriman, E Kuster, GA Fox, Undergraduate exposure to climate education: national trends and opportunities for curricular improvements, *Submitted*
+**NG Nelson**, L Montefiore&#42;, C Anthony&#42;&#42;, [L Merriman](https://www.bae.ncsu.edu/people/lsmerrim), [E Kuster](http://www.southcentralclimate.org/index.php/pages/person/emma_kuster), [GA Fox](https://www.bae.ncsu.edu/people/gafox2), Undergraduate exposure to climate education: national trends and opportunities for curricular improvements, *Submitted*
 
 **NG Nelson**, [R Muñoz-Carpena](http://abe.ufl.edu/carpena/index.shtml), [EJ Phlips](http://plants.ifas.ufl.edu/associated-personnel/edward-phlips/), [D Kaplan](https://www.watershedecology.org/), P Sucsy, J Hendrickson (2018), [Revealing biotic and abiotic controls of harmful algal blooms in a shallow subtropical lake through statistical machine learning](https://pubs.acs.org/doi/10.1021/acs.est.7b05884), *Environmental Science & Technology*, 52(6), 3527-3535. doi: 10.1021/acs.est.7b05884
 
