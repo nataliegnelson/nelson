@@ -1,6 +1,6 @@
 baseurl = "http://nelson.rbind.io/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 title = "Biosystems Analytics Lab"
-copyright = "&copy; 2017 Natalie G. Nelson"
+copyright = "&copy; 2018 Natalie G. Nelson"
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -211,6 +211,11 @@ defaultContentLanguageInSubdir = false
   name = "Teaching"
   url = "#teaching"
   weight = 4
+  
+[[menu.main]]
+  name = "Lab news"
+  url = "#news"
+  weight = 5
 
 # Taxonomies.
 #[taxonomies]
