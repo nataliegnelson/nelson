@@ -6,7 +6,7 @@ date = "2018-01-01"
 title = "Alice Alonso, PhD"
 
 # Project summary to display on homepage.
-summary = "Visiting Postdoctoral Scholar (alumna)"
+summary = "Visiting Postdoctoral Scholar (lab alumna)"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "Alice.jpg"

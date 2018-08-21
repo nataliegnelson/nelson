@@ -13,7 +13,7 @@ widget = "custom"
 weight = 20
 
 +++
-*&#42; Graduate student,  &#42;&#42; Undergraduate student* 
+*Asterisks indicate an author is/was a graduate (&#42;) or undergraduate (&#42;&#42;) researcher in the Biosystems Analytics Lab*  
 
 **Peer-reviewed:**  
 
@@ -27,7 +27,7 @@ Y Rong, AV Padron, KJ Hagerty, **NG Nelson**, S Chi, NO Keyhani, J Katz, [S Datt
 
 **Submitted or near submission:**
 
-**NG Nelson**, L Montefiore&#42;, C Anthony&#42;&#42;, [L Merriman](https://www.bae.ncsu.edu/people/lsmerrim), [E Kuster](http://www.southcentralclimate.org/index.php/pages/person/emma_kuster), [GA Fox](https://www.bae.ncsu.edu/people/gafox2), Undergraduate exposure to climate education: national trends and opportunities for curricular improvements, *In preparation*
+**NG Nelson**, L Montefiore&#42;, C Anthony&#42;&#42;, [L Merriman](https://www.bae.ncsu.edu/people/lsmerrim), [E Kuster](http://www.southcentralclimate.org/index.php/pages/person/emma_kuster), [GA Fox](https://www.bae.ncsu.edu/people/gafox2), Undergraduate exposure to climate education: national trends and opportunities for curricular improvements, *Submitted 08/17/2018*
 
 [EJ Phlips](http://plants.ifas.ufl.edu/associated-personnel/edward-phlips/), S Badylak, **NG Nelson**, LJ Morris, RG Chamberlain, LM Hall, JA Hart, C Jacoby, MA Lasi, JC Lockwood, J Miller, Regime shift in the character of phytoplankton blooms in a restricted sub-tropical lagoon: The linkage between benthic and planktonic primary producer dynamics, *In preparation*
 
