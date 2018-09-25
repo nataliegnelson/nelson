@@ -31,7 +31,7 @@ Y Rong, AV Padron, KJ Hagerty, **NG Nelson**, S Chi, NO Keyhani, J Katz, [S Datt
 
 [EJ Phlips](http://plants.ifas.ufl.edu/associated-personnel/edward-phlips/), S Badylak, **NG Nelson**, LJ Morris, RG Chamberlain, LM Hall, JA Hart, C Jacoby, MA Lasi, JC Lockwood, J Miller, Regime shift in the character of phytoplankton blooms in a restricted sub-tropical lagoon: The linkage between benthic and planktonic primary producer dynamics, *In preparation*
 
-[EJ Phlips](http://plants.ifas.ufl.edu/associated-personnel/edward-phlips/), S Badylak, **NG Nelson**, [K Havens](https://www.flseagrant.org/about/staff/havens/), Tropical Storms and harmful algal blooms in two Florida estuaries: The good, the bad and the ugly, *In preparation*
+[EJ Phlips](http://plants.ifas.ufl.edu/associated-personnel/edward-phlips/), S Badylak, **NG Nelson**, [K Havens](https://www.flseagrant.org/about/staff/havens/), Tropical storms and harmful algal blooms in two Florida estuaries: The good, the bad and the ugly, *In preparation*
 
 **Technical reports (non-referreed):**  
 
