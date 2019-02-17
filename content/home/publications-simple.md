@@ -17,6 +17,8 @@ weight = 20
 
 **Peer-reviewed:**  
 
+[CN Jones](https://www.floodhydrology.com/), **NG Nelson**, L Smith (2019), Featured Collection Introduction: The Emerging Science of Aquatic System Connectivity I, *Journal of the American Water Resources Association, in press*
+
 **NG Nelson**, [R Muñoz-Carpena](http://abe.ufl.edu/carpena/index.shtml), [EJ Phlips](http://plants.ifas.ufl.edu/associated-personnel/edward-phlips/), [D Kaplan](https://www.watershedecology.org/), P Sucsy, J Hendrickson (2018), [Revealing biotic and abiotic controls of harmful algal blooms in a shallow subtropical lake through statistical machine learning](https://pubs.acs.org/doi/10.1021/acs.est.7b05884), *Environmental Science & Technology*, 52(6), 3527-3535. doi: 10.1021/acs.est.7b05884
 
 Y Rong, AV Padron, KJ Hagerty, **NG Nelson**, S Chi, NO Keyhani, J Katz, [S Datta](https://autoid.mit.edu/shoumen-datta), C Gomes, and [ES McLamore](https://emclamor.wixsite.com/mclamorelab) (2018), [Post hoc support vector machine learning for biosensors based on weak protein-ligand interactions](http://pubs.rsc.org/en/Content/ArticleLanding/2018/AN/C8AN00065D#!divAbstract), *Analyst*, 143, 2066-2075. doi: 10.1039/C8AN00065D
@@ -27,11 +29,11 @@ Y Rong, AV Padron, KJ Hagerty, **NG Nelson**, S Chi, NO Keyhani, J Katz, [S Datt
 
 **Submitted or near submission:**
 
-**NG Nelson**, L Montefiore&#42;, C Anthony&#42;&#42;, [L Merriman](https://www.bae.ncsu.edu/people/lsmerrim), [E Kuster](http://www.southcentralclimate.org/index.php/pages/person/emma_kuster), [GA Fox](https://www.bae.ncsu.edu/people/gafox2), Undergraduate exposure to climate education: national trends and opportunities for curricular improvements, *In preparation*
-
-[EJ Phlips](http://plants.ifas.ufl.edu/associated-personnel/edward-phlips/), S Badylak, **NG Nelson**, LJ Morris, RG Chamberlain, LM Hall, JA Hart, C Jacoby, MA Lasi, JC Lockwood, J Miller, Regime shift in the character of phytoplankton blooms in a restricted sub-tropical lagoon: The linkage between benthic and planktonic primary producer dynamics, *In preparation*
+**NG Nelson**, L Montefiore&#42;, C Anthony&#42;&#42;, [L Merriman](https://www.bae.ncsu.edu/people/lsmerrim), [E Kuster](http://www.southcentralclimate.org/index.php/pages/person/emma_kuster), [GA Fox](https://www.bae.ncsu.edu/people/gafox2), Undergraduate exposure to climate education in natural resources management, *Submitted*  
 
 [EJ Phlips](http://plants.ifas.ufl.edu/associated-personnel/edward-phlips/), S Badylak, **NG Nelson**, [K Havens](https://www.flseagrant.org/about/staff/havens/), Tropical storms and harmful algal blooms in two Florida estuaries: The good, the bad and the ugly, *In preparation*
+
+[EJ Phlips](http://plants.ifas.ufl.edu/associated-personnel/edward-phlips/), S Badylak, **NG Nelson**, LJ Morris, RG Chamberlain, LM Hall, JA Hart, C Jacoby, MA Lasi, JC Lockwood, J Miller, Regime shift in the character of phytoplankton blooms in a restricted sub-tropical lagoon: The linkage between benthic and planktonic primary producer dynamics, *In preparation*  
 
 **Technical reports (non-referreed):**  
 

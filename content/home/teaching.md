@@ -16,7 +16,8 @@ weight = 60
 
 **Courses:**
 
-- ABE 495 / 590: "Applied Statistics for Environmental and Agricultural Data Analysis", Spring 2018
+- BAE 590: *Environmental and Agricultural Data Analytics and Modeling*, Spring 2019
+- BAE 495 / 590: *Applied Statistics for Environmental and Agricultural Data Analysis*, Spring 2018
 
 **Guest lectures:**
 
