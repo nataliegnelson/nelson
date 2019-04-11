@@ -1,12 +1,12 @@
 +++
 # Date this page was created.
-date = "2018-01-04"
+date = "2018-01-01"
 
 # Project title.
 title = "Cord Anthony"
 
 # Project summary to display on homepage.
-summary = "Undergraduate Research Assistant"
+summary = "Undergraduate Research Assistant (lab alumnus)"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "Cord.jpg"

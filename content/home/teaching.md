@@ -5,7 +5,7 @@
 date = "2016-04-20T00:00:00"
 draft = false
 
-title = "Teaching"
+title = "Teaching and Training"
 subtitle = ""
 widget = "custom"
 
@@ -14,10 +14,15 @@ weight = 60
 
 +++
 
+**Research and Extension Experience for Undergraduates:**
+
+- [Pigs, Poultry, the Planet, and Data-Driven Problem Solving ("P4")](http://p4.rbind.io/). Funding available for undergraduate fellowships each summer, 2019 - 2023. 
+
 **Courses:**
 
-- BAE 590: *Environmental and Agricultural Data Analytics and Modeling*, Spring 2019
-- BAE 495 / 590: *Applied Statistics for Environmental and Agricultural Data Analysis*, Spring 2018
+- BAE 495 / 590: R Coding for Data Management and Analysis (fall 2019, distance ed)
+- BAE 590: Environmental and Agricultural Data Analytics and Modeling (offered every spring)
+- BAE 495 / 590: Applied Statistics for Environmental and Agricultural Data Analysis (spring 2018)
 
 **Guest lectures:**
 
@@ -25,3 +30,4 @@ weight = 60
 - Principles of data visualization
 - Intro to R and reproducible science for curious non-users
 - Intro to local and global sensitivity analysis
+- Challenges and opportunities for application of process-based models and predictive analytics in water quality management decision-making
