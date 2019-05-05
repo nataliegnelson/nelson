@@ -30,4 +30,8 @@ weight = 60
 - Principles of data visualization
 - Intro to R and reproducible science for curious non-users
 - Intro to local and global sensitivity analysis
-- Challenges and opportunities for application of process-based models and predictive analytics in water quality management decision-making
+- Challenges and opportunities for application of process-based models and predictive analytics in water quality management decision-making  
+
+**Podcasts:**  
+  
+If you're interested in broadening your students' perspectives through the use of podcasts, check out my [working list](https://docs.google.com/document/d/1HNasMb8VI9sx6swsHi-l6iN0GG27J6IpPufmFIxTdbE/edit?usp=sharing) of episodes related to biological and agricultural engineering. Episodes cover topics ranging from water quality to hydrologic modeling, ecosystem restoration, mariculture, and agriculture.
