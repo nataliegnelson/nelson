@@ -34,12 +34,4 @@ weight = 60
 
 **Podcasts:**  
   
-<<<<<<< HEAD
-<<<<<<< HEAD
-If you're interested in broadening your students' perspectives through the use of podcasts, check out my [working list](https://docs.google.com/document/d/1HNasMb8VI9sx6swsHi-l6iN0GG27J6IpPufmFIxTdbE/edit?usp=sharing) of episodes related to biological and agricultural engineering. Episodes cover topics ranging from water quality to hydrologic modeling, ecosystem restoration, mariculture, and agriculture.
-=======
-If you're interested in broadening your students' perspectives on biological and agricultural engineering through the use of podcasts, check out my [working list](https://docs.google.com/document/d/1HNasMb8VI9sx6swsHi-l6iN0GG27J6IpPufmFIxTdbE/edit?usp=sharing) of episodes related to biological and agricultural engineering. Episodes cover topics ranging from water quality to hydrologic modeling, ecosystem restoration, mariculture, and agriculture.
->>>>>>> 13fb4881e899dea71eaa16c191e95e8da4f9b51f
-=======
-If you're interested in broadening your students' perspectives on biological and agricultural engineering through the use of podcasts, check out my [working list](https://docs.google.com/document/d/1HNasMb8VI9sx6swsHi-l6iN0GG27J6IpPufmFIxTdbE/edit?usp=sharing) of episodes related to biological and agricultural engineering. Episodes cover topics ranging from water quality to hydrologic modeling, ecosystem restoration, mariculture, and agriculture.
->>>>>>> 13fb4881e899dea71eaa16c191e95e8da4f9b51f
+If you're interested in broadening your students' perspectives through podcasts, check out my [working list](https://docs.google.com/document/d/1HNasMb8VI9sx6swsHi-l6iN0GG27J6IpPufmFIxTdbE/edit?usp=sharing) of episodes related to biological and agricultural engineering. Episodes cover topics ranging from water quality to hydrologic modeling, ecosystem restoration, mariculture, and agriculture.
