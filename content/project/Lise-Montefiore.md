@@ -6,7 +6,7 @@ date = "2018-01-19"
 title = "Lise Montefiore"
 
 # Project summary to display on homepage.
-summary = "Provost Graduate Research Fellow & PhD Student"
+summary = "SECASC Global Change Fellow & PhD Student"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "Lise.jpg"
@@ -31,5 +31,3 @@ caption = ""
 Lise received her MS in Water Science Engineering from Polytech Montpellier, in Montpellier, France. She has worked as an intern at several consulting firms specialized in water resource management and hydraulic modeling. Lise transferred to NCSU from Oklahoma State University where she worked on additives in bioretention systems and phosphorous removal by fly-ash.
 
 Lise's research focuses on quantifying spatial variability in the vulnerability of estuarine systems to global and local change.
-
-{{% staticref "files/Lise_Montefiore_CV.pdf" %}}CV{{% /staticref %}}

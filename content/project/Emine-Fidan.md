@@ -6,7 +6,7 @@ date = "2018-01-18"
 title = "Emine Fidan"
 
 # Project summary to display on homepage.
-summary = "Provost Graduate Research Fellow & PhD Student"
+summary = "PhD Student"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "Emine.jpg"

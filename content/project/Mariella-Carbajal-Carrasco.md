@@ -1,15 +1,15 @@
 +++
 # Date this page was created.
-date = "2018-01-01"
+date = "2018-01-18"
 
 # Project title.
-title = "Cord Anthony"
+title = "Mariella Carbajal Carrasco"
 
 # Project summary to display on homepage.
-summary = "Undergraduate Research Assistant (lab alumnus)"
+summary = "PhD Student"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "Cord.jpg"
+image_preview = ""
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -28,6 +28,4 @@ caption = ""
 
 +++
 
-Cord is originally from Michigan, but has lived in the Raleigh area for most of his life. Cord’s main interests lie in the realm of both civil and biological engineering and how their respective methods affect the environment.
 
-Cord is working with Lauren to investigate how the exposure and perceived importance of climate education varies among undergraduate and graduate students across the country.
