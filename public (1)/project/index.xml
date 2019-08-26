@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Biosystems Analytics Lab</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Biosystems Analytics Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Natalie G. Nelson</copyright>
+    <lastBuildDate>Fri, 19 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lise Montefiore</title>
+      <link>/project/lise-montefiore/</link>
+      <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/lise-montefiore/</guid>
+      <description>SECASC Global Change Fellow &amp;amp; PhD Student</description>
+    </item>
+    
+    <item>
+      <title>Emine Fidan</title>
+      <link>/project/emine-fidan/</link>
+      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/emine-fidan/</guid>
+      <description>PhD Student</description>
+    </item>
+    
+    <item>
+      <title>Mariella Carbajal Carrasco</title>
+      <link>/project/mariella-carbajal-carrasco/</link>
+      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/mariella-carbajal-carrasco/</guid>
+      <description>PhD Student</description>
+    </item>
+    
+    <item>
+      <title>Natalie Von Tress</title>
+      <link>/project/natalie-von-tress/</link>
+      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/natalie-von-tress/</guid>
+      <description>MS Student</description>
+    </item>
+    
+    <item>
+      <title>Layla El Khoury</title>
+      <link>/project/layla-el-khoury/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/layla-el-khoury/</guid>
+      <description>Undergraduate Research Assistant</description>
+    </item>
+    
+    <item>
+      <title>Lab Alumni</title>
+      <link>/project/lab-alumni/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/lab-alumni/</guid>
+      <description>Visiting Scholars
+ Dr. Alice Alonso, Université catholique de Louvain, Belgium, 2018
+  Undergraduate Research Assistants
+ Samuel Blackman, Fall 2017 - Spring 2019 Cord Anthony, Fall 2017 - Summer 2018  P4 Summer Undergraduate Research Fellows
+ Asya Macon, 2019 Amanda Dean, 2019  </description>
+    </item>
+    
+  </channel>
+</rss>
