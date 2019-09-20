@@ -9,7 +9,7 @@ title = "Mariella Carbajal Carrasco"
 summary = "PhD Student"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = ""
+image_preview = "Mariella.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -28,4 +28,4 @@ caption = ""
 
 +++
 
-
+Mariella received her MS in Water Resources Engineering from Universidad Nacional Agraria La Molina (UNALM), Lima, Peru. She worked for several years as a Research Associate at the International Potato Center, specialized in geospatial climate, hydrologic and crop modeling, as well as in satellite and UAV based remote sensing processing. Mariella was a USDA Borlaug International Agricultural Science and Technology Fellow at the University of Tennessee in Knoxville, where she researched soil organic carbon stocks using spectroscopy techniques. She also had the opportunity to become a graduate professor for MS programs in the Agricultural Engineering Department at UNALM.

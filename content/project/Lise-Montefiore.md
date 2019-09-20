@@ -31,3 +31,5 @@ caption = ""
 Lise received her MS in Water Science Engineering from Polytech Montpellier, in Montpellier, France. She has worked as an intern at several consulting firms specialized in water resource management and hydraulic modeling. Lise transferred to NCSU from Oklahoma State University where she worked on additives in bioretention systems and phosphorous removal by fly-ash.
 
 Lise's research focuses on quantifying spatial variability in the vulnerability of estuarine systems to global and local change.
+
+For more on Lise, visit her [LinkedIn page](https://www.linkedin.com/in/lisemontefiore/).
