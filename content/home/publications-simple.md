@@ -17,7 +17,7 @@ weight = 20
 
 **Peer-reviewed:**  
 
-- [TL Messer](https://engineering.unl.edu/messerresearch/), [KR Douglas-Mankin](https://www.usgs.gov/staff-profiles/kyle-r-douglas-mankin?qt-staff_profile_science_products=0#qt-staff_profile_science_products), **NG Nelson**, [JR Etheridge](https://etheridgelab.weebly.com/), [Wetland ecosystem resiliency: Protecting and restoring valuable ecosystems](https://elibrary.asabe.org/abstract.asp?aid=50870), *Transactions of the ASABE, in press.*  
+- [TL Messer](https://engineering.unl.edu/messerresearch/), [KR Douglas-Mankin](https://www.usgs.gov/staff-profiles/kyle-r-douglas-mankin?qt-staff_profile_science_products=0#qt-staff_profile_science_products), **NG Nelson**, [JR Etheridge](https://etheridgelab.weebly.com/), 2019, [Wetland ecosystem resiliency: Protecting and restoring valuable ecosystems](https://elibrary.asabe.org/abstract.asp?aid=50870), *Transactions of the ASABE, in press.*  
 
 - **NG Nelson**, L Montefiore&#42;, C Anthony&#42;&#42;, L Merriman, [E Kuster](http://www.southcentralclimate.org/index.php/pages/person/emma_kuster), [GA Fox](https://www.bae.ncsu.edu/people/gafox2), 2019, [Undergraduate exposure to climate education in natural resources management](https://elibrary.asabe.org/abstract.asp?aid=50209), *Transactions of the ASABE*, 62(3): 831-839.
 
