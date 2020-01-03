@@ -14,7 +14,7 @@ weight = 5
   interests = [
     "Statistical modeling and machine learning",
     "Geospatial and temporal analysis",
-    "Socio-environmental synthesis"
+    "Environmental and agricultural systems analysis"
   ]
 
 # List your qualifications (such as academic degrees).

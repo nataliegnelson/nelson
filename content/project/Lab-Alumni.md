@@ -40,4 +40,4 @@ caption = ""
 **P4 Summer Undergraduate Research Fellows**  
 
 - [Asya Macon](https://www.linkedin.com/in/asya-macon-080677189/), 2019
-- [Amanda Dean](https://www.linkedin.com/in/amandadean10/), 2019
+- [Amanda Dean](https://www.linkedin.com/in/amandadean10/), 2019. Amanda is purusing a MS in Advanced Analytics from NC State starting in summer 2020.

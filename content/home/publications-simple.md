@@ -17,6 +17,8 @@ weight = 20
 
 **Peer-reviewed:**  
 
+- [TL Messer](https://engineering.unl.edu/messerresearch/), [KR Douglas-Mankin](https://www.usgs.gov/staff-profiles/kyle-r-douglas-mankin?qt-staff_profile_science_products=0#qt-staff_profile_science_products), **NG Nelson**, [JR Etheridge](https://etheridgelab.weebly.com/), [Wetland ecosystem resiliency: Protecting and restoring valuable ecosystems](https://elibrary.asabe.org/abstract.asp?aid=50870), *Transactions of the ASABE, in press.*  
+
 - **NG Nelson**, L Montefiore&#42;, C Anthony&#42;&#42;, L Merriman, [E Kuster](http://www.southcentralclimate.org/index.php/pages/person/emma_kuster), [GA Fox](https://www.bae.ncsu.edu/people/gafox2), 2019, [Undergraduate exposure to climate education in natural resources management](https://elibrary.asabe.org/abstract.asp?aid=50209), *Transactions of the ASABE*, 62(3): 831-839.
 
 - L Smith, CN Jones, **NG Nelson**, 2019, [Featured Collection Introduction: The Emerging Science of Aquatic System Connectivity II](https://onlinelibrary.wiley.com/doi/full/10.1111/1752-1688.12760), *Journal of the American Water Resources Association*, 55(3): 526-528
@@ -37,7 +39,7 @@ weight = 20
 
 - [EJ Phlips](http://plants.ifas.ufl.edu/associated-personnel/edward-phlips/), S Badylak, **NG Nelson**, [K Havens](https://www.flseagrant.org/about/staff/havens/), Tropical storms and harmful algal blooms in two Florida estuaries: The good, the bad and the ugly, *Under review*  
 
-- [TL Messer](https://engineering.unl.edu/messerresearch/), [KR Douglas-Mankin](https://www.usgs.gov/staff-profiles/kyle-r-douglas-mankin?qt-staff_profile_science_products=0#qt-staff_profile_science_products), **NG Nelson**, [JR Etheridge](https://etheridgelab.weebly.com/), Wetland ecosystem resiliency: Protecting and restoring valuable ecosystems, *Under review*  
+- MJ Wells, [TE Gilmore](https://engineering.unl.edu/bse/faculty/troy-gilmore/), **NG Nelson**, [A Mittelstet](https://engineering.unl.edu/bse/faculty/aaron-mittelstet/), [JK Böhlke](https://www.usgs.gov/staff-profiles/john-karl-bohlke?qt-staff_profile_science_products=3#qt-staff_profile_science_products), Determination of vadose and saturated-zone nitrate lag times using long-term groundwater monitoring data and statistical machine learning, *Co-author review*
 
 - [EJ Phlips](http://plants.ifas.ufl.edu/associated-personnel/edward-phlips/), S Badylak, **NG Nelson**, LJ Morris, RG Chamberlain, LM Hall, JA Hart, C Jacoby, MA Lasi, JC Lockwood, J Miller, Regime shift in the character of phytoplankton blooms in a restricted sub-tropical lagoon: The linkage between benthic and planktonic primary producer dynamics, *Co-author review*  
 
