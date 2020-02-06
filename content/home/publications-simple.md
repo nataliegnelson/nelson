@@ -17,7 +17,9 @@ weight = 20
 
 **Peer-reviewed:**  
 
-- [TL Messer](https://engineering.unl.edu/messerresearch/), [KR Douglas-Mankin](https://www.usgs.gov/staff-profiles/kyle-r-douglas-mankin?qt-staff_profile_science_products=0#qt-staff_profile_science_products), **NG Nelson**, [JR Etheridge](https://etheridgelab.weebly.com/), 2019, [Wetland ecosystem resiliency: Protecting and restoring valuable ecosystems](https://elibrary.asabe.org/abstract.asp?aid=50870), *Transactions of the ASABE, in press.*  
+- [EJ Phlips](http://plants.ifas.ufl.edu/associated-personnel/edward-phlips/), S Badylak, **NG Nelson**, K Havens, 2020, [Hurricanes, El Niño and harmful algal blooms in two sub-tropical Florida estuaries: Direct and indirect impacts](https://www.nature.com/articles/s41598-020-58771-4), *Scientific Reports*, 10, 1910.
+
+- [TL Messer](https://engineering.unl.edu/messerresearch/), [KR Douglas-Mankin](https://www.usgs.gov/staff-profiles/kyle-r-douglas-mankin?qt-staff_profile_science_products=0#qt-staff_profile_science_products), **NG Nelson**, [JR Etheridge](https://etheridgelab.weebly.com/), 2019, [Wetland ecosystem resilience: Protecting and restoring valuable ecosystems](https://elibrary.asabe.org/abstract.asp?aid=50870), *Transactions of the ASABE*, 62(6): 1541-1543.  
 
 - **NG Nelson**, L Montefiore&#42;, C Anthony&#42;&#42;, L Merriman, [E Kuster](http://www.southcentralclimate.org/index.php/pages/person/emma_kuster), [GA Fox](https://www.bae.ncsu.edu/people/gafox2), 2019, [Undergraduate exposure to climate education in natural resources management](https://elibrary.asabe.org/abstract.asp?aid=50209), *Transactions of the ASABE*, 62(3): 831-839.
 
@@ -35,9 +37,9 @@ weight = 20
 
 **Submitted or near submission:**
 
-- **NG Nelson**, [R Muñoz-Carpena](http://abe.ufl.edu/carpena/index.shtml), [EJ Phlips](http://plants.ifas.ufl.edu/associated-personnel/edward-phlips/), Parameter uncertainty drives incongruities between simulated chlorophyll and phytoplankton functional group dynamics in a mechanistic management model, *Under review*    
+- **NG Nelson**, [R Muñoz-Carpena](http://abe.ufl.edu/carpena/index.shtml), [EJ Phlips](http://plants.ifas.ufl.edu/associated-personnel/edward-phlips/), Parameter uncertainty drives incongruities between simulated chlorophyll and phytoplankton functional group dynamics in a mechanistic management model, *In revision*    
 
-- [EJ Phlips](http://plants.ifas.ufl.edu/associated-personnel/edward-phlips/), S Badylak, **NG Nelson**, [K Havens](https://www.flseagrant.org/about/staff/havens/), Tropical storms and harmful algal blooms in two Florida estuaries: The good, the bad and the ugly, *Under review*  
+- [B Doll](https://www.bae.ncsu.edu/people/bdoll/), J Kurki-Fox, J Page, **NG Nelson**, J Johnson, Flood Flow Frequency Analysis to Estimate the Potential Floodplain Nitrogen Treatment Resulting from Stream Restoration, *Under review*
 
 - MJ Wells, [TE Gilmore](https://engineering.unl.edu/bse/faculty/troy-gilmore/), **NG Nelson**, [A Mittelstet](https://engineering.unl.edu/bse/faculty/aaron-mittelstet/), [JK Böhlke](https://www.usgs.gov/staff-profiles/john-karl-bohlke?qt-staff_profile_science_products=3#qt-staff_profile_science_products), Determination of vadose and saturated-zone nitrate lag times using long-term groundwater monitoring data and statistical machine learning, *Co-author review*
 
