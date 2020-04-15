@@ -30,14 +30,15 @@ caption = ""
 
 **Visiting Scholars**  
 
-- [Dr. Alice Alonso](https://www.linkedin.com/in/alicealonso/), Université catholique de Louvain, Belgium, 2018  
+- [Dr. Alice Alonso](https://www.linkedin.com/in/alicealonso/). Alice is a postdoctoral researcher at Université catholique de Louvain, Belgium.  
 
 **Undergraduate Research Assistants**  
 
-- [Samuel Blackman](https://www.linkedin.com/in/samuel-blackman-87697a108/), Fall 2017 - Spring 2019
-- Cord Anthony, Fall 2017 - Summer 2018
+- Layla El-Khoury. As of fall 2020, Layla is a Graduate Research Assistant and MS student working with Dr. Barbara Doll in the Biological and Agricultural Engineering Department at NC State University.
+- [Samuel Blackman](https://www.linkedin.com/in/samuel-blackman-87697a108/). As of fall 2020, Sam is a NSF Graduate Research Fellow and PhD student at University of Colorado Boulder.
+- Cord Anthony
 
 **P4 Summer Undergraduate Research Fellows**  
 
-- [Asya Macon](https://www.linkedin.com/in/asya-macon-080677189/), 2019
-- [Amanda Dean](https://www.linkedin.com/in/amandadean10/), 2019. Amanda is purusing a MS in Advanced Analytics from NC State starting in summer 2020.
+- [Asya Macon](https://www.linkedin.com/in/asya-macon-080677189/). As of fall 2020, Asya is a Graduate Research Assistant and MS student at the University of Nebraska Lincoln.  
+- [Amanda Dean](https://www.linkedin.com/in/amandadean10/). As of summer 2020, Amanda is a MS student with the Institute of Advanced Analytics at NC State University.
