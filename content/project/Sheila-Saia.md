@@ -3,7 +3,7 @@
 date = "2018-01-20"
 
 # Project title.
-title = "Dr. Sheila Saia"
+title = "Sheila Saia, Ph.D."
 
 # Project summary to display on homepage.
 summary = "Postdoctoral Research Scholar"

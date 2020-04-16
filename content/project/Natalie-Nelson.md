@@ -3,13 +3,13 @@
 date = "2018-01-20"
 
 # Project title.
-title = "Dr. Natalie Nelson"
+title = "Natalie Nelson, Ph.D."
 
 # Project summary to display on homepage.
 summary = "Principal Investigator & Assistant Professor"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "Tilly.jpg"
+image_preview = "Nelson_1.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
