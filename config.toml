@@ -48,7 +48,7 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "Biological & Agricultural Engineering", url = "https://www.bae.ncsu.edu/people/nnelson4/" }, { name = "North Carolina State University", url = "https://www.ncsu.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "IMG_4462.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "satellite2.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "nnelson4@ncsu.edu"
   address = "Weaver Labs Room 152, Main Campus, Raleigh, NC"
   office_hours = ""
