@@ -21,6 +21,8 @@ weight = 20
 
 - Edward Phlips, Susan Badylak, **Natalie G. Nelson**, and Karl Havens (2020), [Hurricanes, El Niño and harmful algal blooms in two sub-tropical Florida estuaries: Direct and indirect impacts](https://www.nature.com/articles/s41598-020-58771-4), *Scientific Reports*, 10, 1910  
 
+- **Natalie G. Nelson**, **Layla El-Khoury&#42;&#42;&#42;**, and Mike Boyette (2020), [Interpreting Freeze / Frost Probabilities from the National Centers for Environmental Information](https://content.ces.ncsu.edu/interpreting-freezefrost-probabilities-from-the-national-centers-for-environmental-information), *NC Cooperative Extension*, Fact Sheet AG-873  
+
 **2019**
 
 - Tiffany Messer, Kyle R. Douglas-Mankin, **Natalie G. Nelson**, and J. Randall Etheridge (2019), [Wetland ecosystem resilience: Protecting and restoring valuable ecosystems](https://elibrary.asabe.org/abstract.asp?aid=50870), *Transactions of the ASABE*, 62(6): 1541-1543  
@@ -53,7 +55,3 @@ of streams in the Southeast Piedmont (USA)? *Submitted (Apr 03, 2020)*
 - Martin J. Wells, Troy E. Gilmore, **Natalie G. Nelson**, Aaron Mittelstet, and JK Böhlke, Determination of vadose and saturated-zone nitrate lag times using long-term groundwater monitoring data and statistical machine learning, *Submitted (Apr 15 2020)*
 
 - Jeffrey A. Niedermeyer, William G. Miller, Emma Yee, Angela Harris, Ryan Emanuel, Theo Jass, **Natalie G. Nelson**, and Sophia Kathariou, *Campylobacter jejuni* and *Arcobacter butzleri* in floodwater samples associated with Hurricane Florence, North Carolina, USA, *Co-author review*
-
-**Extension fact sheets:**  
-
-- **Natalie G. Nelson**, **Layla El-Khoury&#42;&#42;&#42;**, and Mike Boyette (2020), [Interpreting Freeze / Frost Probabilities from the National Centers for Environmental Information](https://content.ces.ncsu.edu/interpreting-freezefrost-probabilities-from-the-national-centers-for-environmental-information), *NC Cooperative Extension*, Fact Sheet AG-873
