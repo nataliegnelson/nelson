@@ -6,7 +6,7 @@ date = "2018-01-18"
 title = "Mariella Carbajal Carrasco"
 
 # Project summary to display on homepage.
-summary = "PhD Student"
+summary = "PhD Student, Co-Advised by Dr. Mike Boyette"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "Mariella.jpg"

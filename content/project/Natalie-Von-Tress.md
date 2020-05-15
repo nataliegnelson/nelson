@@ -6,7 +6,7 @@ date = "2018-01-18"
 title = "Natalie Von Tress"
 
 # Project summary to display on homepage.
-summary = "NSF Graduate Research Fellow & MS Student"
+summary = "MS Student & NSF Graduate Research Fellow"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "VonTress.png"

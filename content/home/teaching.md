@@ -20,18 +20,20 @@ weight = 60
 
 **Courses:**
 
-- BAE 495 / 590: R Coding for Data Management and Analysis (fall 2019, distance ed)
-- BAE 590: Environmental and Agricultural Data Analytics and Modeling (offered every spring)
+- BAE 495 / 590: R Coding for Data Management and Analysis (offered every fall, distance ed)
+- BAE 565: Environmental and Agricultural Data Analytics and Modeling (offered every spring)
 - BAE 495 / 590: Applied Statistics for Environmental and Agricultural Data Analysis (spring 2018)
 
 **Guest lectures:**
 
 - Applying for the NSF Graduate Research Fellowship
 - Principles of data visualization
-- Intro to R and reproducible science for curious non-users
-- Intro to local and global sensitivity analysis
+- Intro to R and reproducible science  
+- Intro to local and global sensitivity analysis  
+- Big data and biological & agricultural engineering
 - Challenges and opportunities for application of process-based models and predictive analytics in water quality management decision-making  
+- Tracking environmental change from space (for 3rd-5th graders)
 
 **Podcasts:**  
   
-If you're interested in broadening your students' perspectives through podcasts, check out my [working list](https://docs.google.com/document/d/1HNasMb8VI9sx6swsHi-l6iN0GG27J6IpPufmFIxTdbE/edit?usp=sharing) of episodes related to biological and agricultural engineering. Episodes cover topics ranging from water quality to hydrologic modeling, ecosystem restoration, mariculture, and agriculture.
+If you're interested in broadening your students' perspectives through podcasts, check out this [working list](https://docs.google.com/document/d/1HNasMb8VI9sx6swsHi-l6iN0GG27J6IpPufmFIxTdbE/edit?usp=sharing) of episodes related to biological and agricultural engineering. Episodes cover topics ranging from water quality to hydrologic modeling, ecosystem restoration, mariculture, and agriculture.

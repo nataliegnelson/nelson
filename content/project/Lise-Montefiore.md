@@ -6,7 +6,7 @@ date = "2018-01-19"
 title = "Lise Montefiore"
 
 # Project summary to display on homepage.
-summary = "SECASC Global Change Fellow & PhD Student"
+summary = "PhD Candidate & SECASC Global Change Fellow"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "Lise.jpg"
