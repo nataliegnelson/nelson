@@ -17,7 +17,7 @@ weight = 20
 
 **2020**  
 
-- **Natalie G. Nelson**, Rafael Muñoz-Carpena, and Edward Phlips (2020), [Parameter uncertainty drives important incongruities between simulated chlorophyll and phytoplankton functional group dynamics in a mechanistic management model](https://www.sciencedirect.com/science/article/pii/S1364815219310047), *Environmental Modelling & Software, In press*    
+- **Natalie G. Nelson**, Rafael Muñoz-Carpena, and Edward Phlips (2020), [Parameter uncertainty drives important incongruities between simulated chlorophyll and phytoplankton functional group dynamics in a mechanistic management model](https://www.sciencedirect.com/science/article/pii/S1364815219310047), *Environmental Modelling & Software*, 129 (in press)
 
 - Edward Phlips, Susan Badylak, **Natalie G. Nelson**, and Karl Havens (2020), [Hurricanes, El Niño and harmful algal blooms in two sub-tropical Florida estuaries: Direct and indirect impacts](https://www.nature.com/articles/s41598-020-58771-4), *Scientific Reports*, 10, 1910  
 
