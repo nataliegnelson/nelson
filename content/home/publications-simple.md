@@ -17,6 +17,8 @@ weight = 20
 
 **2020**  
 
+- Barbara Doll, Jack Kurki-Fox, Jonathan Page, **Natalie G. Nelson**, and Jeffrey Johnson (2020), [Flood Flow Frequency Analysis to Estimate Potential Floodplain Nitrogen Treatment during Overbank Flow Events in Urban Stream Restoration Projects](https://www.mdpi.com/2073-4441/12/6/1568), *Water*, 12(6):1568  
+
 - Sara Donatich, Barbara Doll, Jonathan Page, and **Natalie G. Nelson** (2020), [Can the Stream Quantification Tool (SQT) protocol predict the biotic condition
 of streams in the Southeast Piedmont (USA)?](https://doi.org/10.3390/w12051485), *Water*, 12(5):1485  
 
@@ -51,8 +53,6 @@ of streams in the Southeast Piedmont (USA)?](https://doi.org/10.3390/w12051485),
 **Submitted or near submission:**
 
 - Tiffany Messer, Trisha Moore, **Natalie G. Nelson**, Laurent Ahiablame, Eban Bean, Chelsie Boles, Sonja Cook, Steven Hall, John McMaine, and Derek Schlea, Constructed Treatment Wetlands for Agroecosystems: A Synthesis for Nutrient Removal, *Submitted (Feb 24, 2020)*
-
-- Barbara Doll, Jack Kurki-Fox, Jonathan Page, **Natalie G. Nelson**, and Jeffrey Johnson, Flood Flow Frequency Analysis to Estimate the Potential Floodplain Nitrogen Treatment Resulting from Stream Restoration, *Submitted (Apr 04, 2020)*
 
 - Martin J. Wells, Troy E. Gilmore, **Natalie G. Nelson**, Aaron Mittelstet, and JK Böhlke, Determination of vadose and saturated-zone nitrate lag times using long-term groundwater monitoring data and statistical machine learning, *Submitted (Apr 15, 2020), [discussion open for comments](https://www.hydrol-earth-syst-sci-discuss.net/hess-2020-169/).*
 
