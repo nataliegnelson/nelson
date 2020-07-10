@@ -58,4 +58,6 @@ of streams in the Southeast Piedmont (USA)?](https://doi.org/10.3390/w12051485),
 
 - Jeffrey Niedermeyer, William Miller, Emma Yee, Angela Harris, Ryan Emanuel, Theo Jass, **Natalie G. Nelson**, and Sophia Kathariou, Search for *Campylobacter* reveals high prevalence and pronounced genetic diversity of *Arcobacter butzleri* in floodwater samples associated with Hurricane Florence, North Carolina, USA, *Submitted (May 13, 2020)*  
 
-- **Sheila Saia&#42;**, **Natalie G. Nelson**, Anders Huseth, Khara Grieger, and Brian Reich, Transitioning Machine Learning from Theory to Practice in Natural Resources Management, *Submitted (Jun 1, 2020)*
+- **Sheila Saia&#42;**, **Natalie G. Nelson**, Anders Huseth, Khara Grieger, and Brian Reich, Transitioning Machine Learning from Theory to Practice in Natural Resources Management, *Submitted (Jun 1, 2020)*  
+
+- Samiul Haque, Edgar Lobaton, **Natalie Nelson**, Craig Yencho, Kenneth Pecota, Russel Mierop, Michael Kudenov, Mike Boyette, and Cranos M Williams, Computer vision approach to characterize size and shape phenotypes of  horticultural crops using high-throughput imagery, *Submitted (Jul 9, 2020)*
