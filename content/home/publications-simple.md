@@ -17,6 +17,8 @@ weight = 20
 
 **2020**  
 
+- Jeffrey Niedermeyer, William Miller, Emma Yee, Angela Harris, Ryan Emanuel, Theo Jass, **Natalie G. Nelson**, and Sophia Kathariou, Search for *Campylobacter* reveals high prevalence and pronounced genetic diversity of *Arcobacter butzleri* in floodwater samples associated with Hurricane Florence, North Carolina, USA, *Applied and Environmental Microbiology*, in press
+
 - Barbara Doll, Jack Kurki-Fox, Jonathan Page, **Natalie G. Nelson**, and Jeffrey Johnson (2020), [Flood Flow Frequency Analysis to Estimate Potential Floodplain Nitrogen Treatment during Overbank Flow Events in Urban Stream Restoration Projects](https://www.mdpi.com/2073-4441/12/6/1568), *Water*, 12(6):1568  
 
 - Sara Donatich, Barbara Doll, Jonathan Page, and **Natalie G. Nelson** (2020), [Can the Stream Quantification Tool (SQT) protocol predict the biotic condition
@@ -54,10 +56,10 @@ of streams in the Southeast Piedmont (USA)?](https://doi.org/10.3390/w12051485),
 
 - Tiffany Messer, Trisha Moore, **Natalie G. Nelson**, Laurent Ahiablame, Eban Bean, Chelsie Boles, Sonja Cook, Steven Hall, John McMaine, and Derek Schlea, Constructed Treatment Wetlands for Agroecosystems: A Synthesis for Nutrient Removal, *Submitted (Feb 24, 2020)*
 
-- Martin J. Wells, Troy E. Gilmore, **Natalie G. Nelson**, Aaron Mittelstet, and JK Böhlke, Determination of vadose and saturated-zone nitrate lag times using long-term groundwater monitoring data and statistical machine learning, *Submitted (Apr 15, 2020), [discussion open for comments](https://www.hydrol-earth-syst-sci-discuss.net/hess-2020-169/)*
-
-- Jeffrey Niedermeyer, William Miller, Emma Yee, Angela Harris, Ryan Emanuel, Theo Jass, **Natalie G. Nelson**, and Sophia Kathariou, Search for *Campylobacter* reveals high prevalence and pronounced genetic diversity of *Arcobacter butzleri* in floodwater samples associated with Hurricane Florence, North Carolina, USA, *Submitted (May 13, 2020)*  
+- Martin J. Wells, Troy E. Gilmore, **Natalie G. Nelson**, Aaron Mittelstet, and JK Böhlke, Determination of vadose and saturated-zone nitrate lag times using long-term groundwater monitoring data and statistical machine learning, *Submitted (Apr 15, 2020), [discussion open for comments](https://www.hydrol-earth-syst-sci-discuss.net/hess-2020-169/)*  
 
 - **Sheila Saia&#42;**, **Natalie G. Nelson**, Anders Huseth, Khara Grieger, and Brian Reich, Transitioning Machine Learning from Theory to Practice in Natural Resources Management, *Submitted (Jun 1, 2020)*  
 
-- Samiul Haque, Edgar Lobaton, **Natalie Nelson**, Craig Yencho, Kenneth Pecota, Russel Mierop, Michael Kudenov, Mike Boyette, and Cranos M Williams, Computer vision approach to characterize size and shape phenotypes of  horticultural crops using high-throughput imagery, *Submitted (Jul 9, 2020)*
+- Samiul Haque, Edgar Lobaton, **Natalie Nelson**, Craig Yencho, Kenneth Pecota, Russel Mierop, Michael Kudenov, Mike Boyette, and Cranos M Williams, Computer vision approach to characterize size and shape phenotypes of  horticultural crops using high-throughput imagery, *Submitted (Jul 9, 2020)*  
+
+- **Alice Alonso&#42;**, **Natalie G. Nelson**, Simeon Yurek, David Kaplan, Maitane Olabarrieta, and Peter Frederick, Estimating the influence of oyster reef chains on freshwater detention at the estuary scale using Landsat-8 imagery, *Submitted (Aug 5, 2020)*
