@@ -32,4 +32,6 @@ caption = ""
 
 Megan received her undergraduate degree in environmental engineering with a minor in chemistry from the University of Florida. Before pursuing her master's degree, Megan worked for several years as an environmental consultant specializing in groundwater remediation and stormwater compliance. Her research uses numerical and geostatistical modeling to track water quality and ecosystem health in riparian and estuarine ecosystems.
 
-For more on Megan, visit her [LinkedIn profile](https://www.linkedin.com/in/megan-carr-945b8016a/).
+For more on Megan, visit her [LinkedIn profile](https://www.linkedin.com/in/megan-carr-945b8016a/).  
+
+Email: mmcarr [at] ncsu.edu

@@ -17,7 +17,9 @@ weight = 20
 
 **2020**  
 
-- Jeffrey Niedermeyer, William Miller, Emma Yee, Angela Harris, Ryan Emanuel, Theo Jass, **Natalie G. Nelson**, and Sophia Kathariou, Search for *Campylobacter* reveals high prevalence and pronounced genetic diversity of *Arcobacter butzleri* in floodwater samples associated with Hurricane Florence, North Carolina, USA, *Applied and Environmental Microbiology*, in press
+- **Sheila Saia&#42;**, **Natalie G. Nelson**, Anders Huseth, Khara Grieger, and Brian Reich (2020), [Transitioning Machine Learning from Theory to Practice in Natural Resources Management](https://doi.org/10.1016/j.ecolmodel.2020.109257), *Ecological Modelling*, 435(1):109257   
+
+- Jeffrey Niedermeyer, William Miller, Emma Yee, Angela Harris, Ryan Emanuel, Theo Jass, **Natalie G. Nelson**, and Sophia Kathariou (2020), [Search for *Campylobacter* reveals high prevalence and pronounced genetic diversity of *Arcobacter butzleri* in floodwater samples associated with Hurricane Florence, North Carolina, USA](https://doi.org/10.1128/AEM.01118-20), *Applied and Environmental Microbiology*, in press
 
 - Barbara Doll, Jack Kurki-Fox, Jonathan Page, **Natalie G. Nelson**, and Jeffrey Johnson (2020), [Flood Flow Frequency Analysis to Estimate Potential Floodplain Nitrogen Treatment during Overbank Flow Events in Urban Stream Restoration Projects](https://www.mdpi.com/2073-4441/12/6/1568), *Water*, 12(6):1568  
 
@@ -27,8 +29,6 @@ of streams in the Southeast Piedmont (USA)?](https://doi.org/10.3390/w12051485),
 - **Natalie G. Nelson**, Rafael Muñoz-Carpena, and Edward Phlips (2020), [Parameter uncertainty drives important incongruities between simulated chlorophyll and phytoplankton functional group dynamics in a mechanistic management model](https://www.sciencedirect.com/science/article/pii/S1364815219310047), *Environmental Modelling & Software*, 129 (in press)
 
 - Edward Phlips, Susan Badylak, **Natalie G. Nelson**, and Karl Havens (2020), [Hurricanes, El Niño and harmful algal blooms in two sub-tropical Florida estuaries: Direct and indirect impacts](https://www.nature.com/articles/s41598-020-58771-4), *Scientific Reports*, 10, 1910  
-
-- **Natalie G. Nelson**, **Layla El-Khoury&#42;&#42;&#42;**, and Mike Boyette (2020), [Interpreting Freeze / Frost Probabilities from the National Centers for Environmental Information](https://content.ces.ncsu.edu/interpreting-freezefrost-probabilities-from-the-national-centers-for-environmental-information), *NC Cooperative Extension*, Fact Sheet AG-873  
 
 **2019**
 
@@ -52,14 +52,16 @@ of streams in the Southeast Piedmont (USA)?](https://doi.org/10.3390/w12051485),
 
 - **Natalie G. Nelson**, Rafael Muñoz-Carpena, and Edward J. Phlips (2017), [A novel quantile method reveals spatiotemporal shifts in phytoplankton descriptors between bloom and non-bloom conditions in a subtropical estuary](http://www.int-res.com/abstracts/meps/v567/p57-78/), *Marine Ecology Progress Series*, 567:57-78. doi:10.3354/meps12054  
 
-**Submitted or near submission:**
+**Submitted and Under Review:**
 
 - Tiffany Messer, Trisha Moore, **Natalie G. Nelson**, Laurent Ahiablame, Eban Bean, Chelsie Boles, Sonja Cook, Steven Hall, John McMaine, and Derek Schlea, Constructed Treatment Wetlands for Agroecosystems: A Synthesis for Nutrient Removal, *Submitted (Feb 24, 2020)*
 
 - Martin J. Wells, Troy E. Gilmore, **Natalie G. Nelson**, Aaron Mittelstet, and JK Böhlke, Determination of vadose and saturated-zone nitrate lag times using long-term groundwater monitoring data and statistical machine learning, *Submitted (Apr 15, 2020), [discussion open for comments](https://www.hydrol-earth-syst-sci-discuss.net/hess-2020-169/)*  
 
-- **Sheila Saia&#42;**, **Natalie G. Nelson**, Anders Huseth, Khara Grieger, and Brian Reich, Transitioning Machine Learning from Theory to Practice in Natural Resources Management, *Submitted (Jun 1, 2020)*  
-
 - Samiul Haque, Edgar Lobaton, **Natalie Nelson**, Craig Yencho, Kenneth Pecota, Russel Mierop, Michael Kudenov, Mike Boyette, and Cranos M Williams, Computer vision approach to characterize size and shape phenotypes of  horticultural crops using high-throughput imagery, *Submitted (Jul 9, 2020)*  
 
-- **Alice Alonso&#42;**, **Natalie G. Nelson**, Simeon Yurek, David Kaplan, Maitane Olabarrieta, and Peter Frederick, Estimating the influence of oyster reef chains on freshwater detention at the estuary scale using Landsat-8 imagery, *Submitted (Aug 5, 2020)*
+- **Alice Alonso&#42;**, **Natalie G. Nelson**, Simeon Yurek, David Kaplan, Maitane Olabarrieta, and Peter Frederick, Estimating the influence of oyster reef chains on freshwater detention at the estuary scale using Landsat-8 imagery, *Submitted (Aug 5, 2020)*  
+
+**Peer-Reviewed Extension Fact Sheets**  
+
+- **Natalie G. Nelson**, **Layla El-Khoury&#42;&#42;&#42;**, and Mike Boyette (2020), [Interpreting Freeze / Frost Probabilities from the National Centers for Environmental Information](https://content.ces.ncsu.edu/interpreting-freezefrost-probabilities-from-the-national-centers-for-environmental-information), *NC Cooperative Extension*, Fact Sheet AG-873  

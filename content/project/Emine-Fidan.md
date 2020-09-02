@@ -32,4 +32,6 @@ caption = ""
 
 Emine joined the Biosystems Analytics Lab in August 2018 and has interests in ecological and biological engineering. Her undergraduate degree is in Biosystems Engineering with minors in Watershed and Environmental Engineering from the University of Tennessee. Her previous research has focused on applying geospatial analyses to study at-risk and endangered species in riverine systems. For her doctoral research, she is developing a project that leverages her georeferencing knowledge to increase sustainability of our natural environment. In her free time, she enjoys to spend her time exploring the outdoors.
 
-To learn more about Emine, check out her [webpage](https://emfidan.wordpress.com/).
+To learn more about Emine, check out her [webpage](https://emfidan.wordpress.com/).  
+
+Email: eneminef [at] ncsu.edu

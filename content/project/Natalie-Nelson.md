@@ -30,4 +30,6 @@ caption = ""
 
 ![](/img/Nelson.jpg)
 
-Natalie Nelson is an Assistant Professor of Data Analytics and Integrated Modeling in the Biological & Agricultural Engineering Department at North Carolina State University (75% research / 25% teaching). She leads the Biosystems Analytics Lab as Principal Investigator. Natalie received her PhD and BS from the University of Florida in Agricultural and Biological Engineering with a concentration in Interdisciplinary Hydrologic Sciences. She started as an Assistant Professor at NC State in August 2017.
+Natalie Nelson is an Assistant Professor of Data Analytics and Integrated Modeling in the Biological & Agricultural Engineering Department at North Carolina State University (75% research / 25% teaching). She leads the Biosystems Analytics Lab as Principal Investigator. Natalie received her PhD and BS from the University of Florida in Agricultural and Biological Engineering with a concentration in Interdisciplinary Hydrologic Sciences. She started as an Assistant Professor at NC State in August 2017.  
+
+Email: nnelson4 [at] ncsu.edu
