@@ -17,18 +17,18 @@ weight = 20
 
 **2020**  
 
-- **Sheila Saia&#42;**, **Natalie G. Nelson**, Anders Huseth, Khara Grieger, and Brian Reich (2020), [Transitioning Machine Learning from Theory to Practice in Natural Resources Management](https://doi.org/10.1016/j.ecolmodel.2020.109257), *Ecological Modelling*, 435(1):109257. EarthArXiv Preprint [here](https://doi.org/10.31223/X5D01H).   
+- **Sheila Saia&#42;**, **Natalie G. Nelson**, Anders Huseth, Khara Grieger, and Brian Reich (2020), [Transitioning Machine Learning from Theory to Practice in Natural Resources Management](https://doi.org/10.1016/j.ecolmodel.2020.109257), *Ecological Modelling*, 435(1): 109257. EarthArXiv Preprint [here](https://doi.org/10.31223/X5D01H).   
 
-- Jeffrey Niedermeyer, William Miller, Emma Yee, Angela Harris, Ryan Emanuel, Theo Jass, **Natalie G. Nelson**, and Sophia Kathariou (2020), [Search for *Campylobacter* reveals high prevalence and pronounced genetic diversity of *Arcobacter butzleri* in floodwater samples associated with Hurricane Florence, North Carolina, USA](https://doi.org/10.1128/AEM.01118-20), *Applied and Environmental Microbiology*, in press
+- Jeffrey Niedermeyer, William Miller, Emma Yee, Angela Harris, Ryan Emanuel, Theo Jass, **Natalie G. Nelson**, and Sophia Kathariou (2020), [Search for *Campylobacter* reveals high prevalence and pronounced genetic diversity of *Arcobacter butzleri* in floodwater samples associated with Hurricane Florence, North Carolina, USA](https://doi.org/10.1128/AEM.01118-20), *Applied and Environmental Microbiology*, 86(20): e01118-20
 
-- Barbara Doll, Jack Kurki-Fox, Jonathan Page, **Natalie G. Nelson**, and Jeffrey Johnson (2020), [Flood Flow Frequency Analysis to Estimate Potential Floodplain Nitrogen Treatment during Overbank Flow Events in Urban Stream Restoration Projects](https://www.mdpi.com/2073-4441/12/6/1568), *Water*, 12(6):1568  
+- Barbara Doll, Jack Kurki-Fox, Jonathan Page, **Natalie G. Nelson**, and Jeffrey Johnson (2020), [Flood Flow Frequency Analysis to Estimate Potential Floodplain Nitrogen Treatment during Overbank Flow Events in Urban Stream Restoration Projects](https://www.mdpi.com/2073-4441/12/6/1568), *Water*, 12(6): 1568  
 
 - Sara Donatich, Barbara Doll, Jonathan Page, and **Natalie G. Nelson** (2020), [Can the Stream Quantification Tool (SQT) protocol predict the biotic condition
-of streams in the Southeast Piedmont (USA)?](https://doi.org/10.3390/w12051485), *Water*, 12(5):1485  
+of streams in the Southeast Piedmont (USA)?](https://doi.org/10.3390/w12051485), *Water*, 12(5): 1485  
 
-- **Natalie G. Nelson**, Rafael Muñoz-Carpena, and Edward Phlips (2020), [Parameter uncertainty drives important incongruities between simulated chlorophyll and phytoplankton functional group dynamics in a mechanistic management model](https://www.sciencedirect.com/science/article/pii/S1364815219310047), *Environmental Modelling & Software*, 129 (in press)
+- **Natalie G. Nelson**, Rafael Muñoz-Carpena, and Edward Phlips (2020), [Parameter uncertainty drives important incongruities between simulated chlorophyll and phytoplankton functional group dynamics in a mechanistic management model](https://www.sciencedirect.com/science/article/pii/S1364815219310047), *Environmental Modelling & Software*, 129: 104708
 
-- Edward Phlips, Susan Badylak, **Natalie G. Nelson**, and Karl Havens (2020), [Hurricanes, El Niño and harmful algal blooms in two sub-tropical Florida estuaries: Direct and indirect impacts](https://www.nature.com/articles/s41598-020-58771-4), *Scientific Reports*, 10, 1910  
+- Edward Phlips, Susan Badylak, **Natalie G. Nelson**, and Karl Havens (2020), [Hurricanes, El Niño and harmful algal blooms in two sub-tropical Florida estuaries: Direct and indirect impacts](https://www.nature.com/articles/s41598-020-58771-4), *Scientific Reports*, 10: 1910  
 
 **2019**
 
