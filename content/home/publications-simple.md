@@ -17,7 +17,7 @@ weight = 20
 
 **2020**  
 
-- **Sheila Saia&#42;**, **Natalie G. Nelson**, Anders Huseth, Khara Grieger, and Brian Reich (2020), [Transitioning Machine Learning from Theory to Practice in Natural Resources Management](https://doi.org/10.1016/j.ecolmodel.2020.109257), *Ecological Modelling*, 435(1):109257   
+- **Sheila Saia&#42;**, **Natalie G. Nelson**, Anders Huseth, Khara Grieger, and Brian Reich (2020), [Transitioning Machine Learning from Theory to Practice in Natural Resources Management](https://doi.org/10.1016/j.ecolmodel.2020.109257), *Ecological Modelling*, 435(1):109257. EarthArXiv Preprint [here](https://doi.org/10.31223/X5D01H).   
 
 - Jeffrey Niedermeyer, William Miller, Emma Yee, Angela Harris, Ryan Emanuel, Theo Jass, **Natalie G. Nelson**, and Sophia Kathariou (2020), [Search for *Campylobacter* reveals high prevalence and pronounced genetic diversity of *Arcobacter butzleri* in floodwater samples associated with Hurricane Florence, North Carolina, USA](https://doi.org/10.1128/AEM.01118-20), *Applied and Environmental Microbiology*, in press
 
