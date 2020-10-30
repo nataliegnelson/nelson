@@ -65,3 +65,9 @@ of streams in the Southeast Piedmont (USA)?](https://doi.org/10.3390/w12051485),
 **Peer-Reviewed Extension Fact Sheets**  
 
 - **Natalie G. Nelson**, **Layla El-Khoury&#42;&#42;&#42;**, and Mike Boyette (2020), [Interpreting Freeze / Frost Probabilities from the National Centers for Environmental Information](https://content.ces.ncsu.edu/interpreting-freezefrost-probabilities-from-the-national-centers-for-environmental-information), *NC Cooperative Extension*, Fact Sheet AG-873  
+
+- **Sheila Saia&#42;** and **Natalie G. Nelson**, Rainfall and Shellfish Harvest Closures Along the North Carolina Coast, *NC Cooperative Extension*, Fact Sheet, *Under review*  
+
+- **Sheila Saia&#42;** and **Natalie G. Nelson**, Getting Data from the National Agricultural Statistics Service (NASS) Using R, *NC Cooperative Extension*, Fact Sheet, *Under review*  
+
+- **Natalie Von Tress&#42;&#42;** and **Natalie G. Nelson**, Detecting Blue-Green Algal Blooms with Satellite Imagery, *NC Cooperative Extension*, Fact Sheet, *Under review*  
