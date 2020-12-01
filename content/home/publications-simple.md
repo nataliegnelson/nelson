@@ -62,12 +62,14 @@ of streams in the Southeast Piedmont (USA)?](https://doi.org/10.3390/w12051485),
 
 - **Alice Alonso&#42;**, **Natalie G. Nelson**, Simeon Yurek, David Kaplan, Maitane Olabarrieta, and Peter Frederick, Estimating the influence of oyster reef chains on freshwater detention at the estuary scale using Landsat-8 imagery, *Submitted (Aug 5, 2020)*  
 
-**Peer-Reviewed Extension Fact Sheets**  
+**Peer-Reviewed Extension and Teaching Publications**  
 
 - **Natalie G. Nelson**, **Layla El-Khoury&#42;&#42;&#42;**, and Mike Boyette (2020), [Interpreting Freeze / Frost Probabilities from the National Centers for Environmental Information](https://content.ces.ncsu.edu/interpreting-freezefrost-probabilities-from-the-national-centers-for-environmental-information), *NC Cooperative Extension*, Fact Sheet AG-873  
 
-- **Sheila Saia&#42;** and **Natalie G. Nelson**, Rainfall and Shellfish Harvest Closures Along the North Carolina Coast, *NC Cooperative Extension*, Fact Sheet, *Under review*  
+- **Sheila Saia&#42;**, **Natalie G. Nelson**, Sierra Young, and Steven Hall, Rainfall and Shellfish Harvest Closures Along the North Carolina Coast, *NC Cooperative Extension*, Fact Sheet, *Under review*  
 
 - **Sheila Saia&#42;** and **Natalie G. Nelson**, Getting Data from the National Agricultural Statistics Service (NASS) Using R, *NC Cooperative Extension*, Fact Sheet, *Under review*  
 
-- **Natalie Von Tress&#42;&#42;** and **Natalie G. Nelson**, Detecting Blue-Green Algal Blooms with Satellite Imagery, *NC Cooperative Extension*, Fact Sheet, *Under review*  
+- **Natalie Von Tress&#42;&#42;**, **Natalie G. Nelson**, and Sierra Young, Detecting Blue-Green Algal Blooms with Satellite Imagery, *NC Cooperative Extension*, Fact Sheet, *Under review*  
+
+- **Natalie G. Nelson**, Problem-Centered Data Science Education in the Agricultural and Biological Engineering Classroom: Analyzing Air Quality Index Data in R, *Transactions of the ASABE*, Peer-Reviewed Teaching Module, *In press*  
