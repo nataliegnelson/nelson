@@ -15,6 +15,12 @@ weight = 20
 +++
 *Asterisks indicate an author is/was a postdoctoral (&#42;), graduate (&#42;&#42;) or undergraduate (&#42;&#42;&#42;) researcher in the Biosystems Analytics Lab*  
 
+**Peer-Reviewed Research Publications:**  
+
+**2021**
+
+- Tiffany Messer, Trisha Moore, **Natalie G. Nelson**, Laurent Ahiablame, Eban Bean, Chelsie Boles, Sonja Cook, Steven Hall, John McMaine, and Derek Schlea, Constructed Treatment Wetlands for Agroecosystems: A Synthesis for Nutrient Removal, *Transactions of the ASABE*, In press
+
 **2020**  
 
 - **Sheila Saia&#42;**, **Natalie G. Nelson**, Anders Huseth, Khara Grieger, and Brian Reich (2020), [Transitioning Machine Learning from Theory to Practice in Natural Resources Management](https://doi.org/10.1016/j.ecolmodel.2020.109257), *Ecological Modelling*, 435(1): 109257. EarthArXiv Preprint [here](https://doi.org/10.31223/X5D01H).   
@@ -54,15 +60,15 @@ of streams in the Southeast Piedmont (USA)?](https://doi.org/10.3390/w12051485),
 
 **Submitted and Under Review:**
 
-- Tiffany Messer, Trisha Moore, **Natalie G. Nelson**, Laurent Ahiablame, Eban Bean, Chelsie Boles, Sonja Cook, Steven Hall, John McMaine, and Derek Schlea, Constructed Treatment Wetlands for Agroecosystems: A Synthesis for Nutrient Removal, *Submitted (Feb 24, 2020)*
-
-- Martin J. Wells, Troy E. Gilmore, **Natalie G. Nelson**, Aaron Mittelstet, and JK Böhlke, Determination of vadose and saturated-zone nitrate lag times using long-term groundwater monitoring data and statistical machine learning, *Submitted (Apr 15, 2020), [discussion open for comments](https://www.hydrol-earth-syst-sci-discuss.net/hess-2020-169/)*  
+- Martin J. Wells, Troy E. Gilmore, **Natalie G. Nelson**, Aaron Mittelstet, and JK Böhlke, Determination of vadose and saturated-zone nitrate lag times using long-term groundwater monitoring data and statistical machine learning, *Submitted (Apr 15, 2020)*
 
 - Samiul Haque, Edgar Lobaton, **Natalie Nelson**, Craig Yencho, Kenneth Pecota, Russel Mierop, Michael Kudenov, Mike Boyette, and Cranos M Williams, Computer vision approach to characterize size and shape phenotypes of  horticultural crops using high-throughput imagery, *Submitted (Jul 9, 2020)*  
 
 - **Alice Alonso&#42;**, **Natalie G. Nelson**, Simeon Yurek, David Kaplan, Maitane Olabarrieta, and Peter Frederick, Estimating the influence of oyster reef chains on freshwater detention at the estuary scale using Landsat-8 imagery, *Submitted (Aug 5, 2020)*  
 
-**Peer-Reviewed Extension and Teaching Publications**  
+- Eric Milbrandt, Alfonse J. Martignette, Mark Thompson, Richard Bartleson, Edward J. Phlips, Susan Badylak, and **Natalie G. Nelson**, Extensive hypoxic zone observed on the shallow inner shelf of southwest Florida (USA) during a major red tide event, *Submitted (Dec 22, 2020)*
+
+**Peer-Reviewed Extension and Teaching Publications:**  
 
 - **Natalie G. Nelson**, **Layla El-Khoury&#42;&#42;&#42;**, and Mike Boyette (2020), [Interpreting Freeze / Frost Probabilities from the National Centers for Environmental Information](https://content.ces.ncsu.edu/interpreting-freezefrost-probabilities-from-the-national-centers-for-environmental-information), *NC Cooperative Extension*, Fact Sheet AG-873  
 
