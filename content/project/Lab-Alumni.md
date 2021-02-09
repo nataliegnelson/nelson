@@ -42,3 +42,7 @@ caption = ""
 
 - [Asya Macon](https://www.linkedin.com/in/asya-macon-080677189/). As of fall 2020, Asya is a Graduate Research Assistant and MS student at the University of Nebraska Lincoln.  
 - [Amanda Dean](https://www.linkedin.com/in/amandadean10/). As of summer 2020, Amanda is a MS student with the Institute of Advanced Analytics at NC State University.
+
+**Other Personnel**  
+
+- Stanton Parham. Stanton was previously the ShellCast Web Developer. As of 2021, Stanton is an Analyst with Deloitte Consulting.  

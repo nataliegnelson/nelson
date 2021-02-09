@@ -19,7 +19,11 @@ weight = 20
 
 **2021**
 
-- Tiffany Messer, Trisha Moore, **Natalie G. Nelson**, Laurent Ahiablame, Eban Bean, Chelsie Boles, Sonja Cook, Steven Hall, John McMaine, and Derek Schlea, Constructed Treatment Wetlands for Agroecosystems: A Synthesis for Nutrient Removal, *Transactions of the ASABE*, In press
+- Martin J. Wells, Troy E. Gilmore, **Natalie G. Nelson**, Aaron Mittelstet, and JK Böhlke (2021), Determination of vadose and saturated-zone nitrate lag times using long-term groundwater monitoring data and statistical machine learning, *Hydrology and Earth System Sciences*, In press
+
+- Samiul Haque, Edgar Lobaton, **Natalie Nelson**, Craig Yencho, Kenneth Pecota, Russel Mierop, Michael Kudenov, Mike Boyette, and Cranos M Williams (2021), Computer vision approach to characterize size and shape phenotypes of  horticultural crops using high-throughput imagery, *Computers and Electronics in Agriculture*, In press  
+
+- Tiffany Messer, Trisha Moore, **Natalie G. Nelson**, Laurent Ahiablame, Eban Bean, Chelsie Boles, Sonja Cook, Steven Hall, John McMaine, and Derek Schlea (2021), Constructed Treatment Wetlands for Agroecosystems: A Synthesis for Nutrient Removal, *Transactions of the ASABE*, In press
 
 **2020**  
 
@@ -60,10 +64,6 @@ of streams in the Southeast Piedmont (USA)?](https://doi.org/10.3390/w12051485),
 
 **Submitted and Under Review:**
 
-- Martin J. Wells, Troy E. Gilmore, **Natalie G. Nelson**, Aaron Mittelstet, and JK Böhlke, Determination of vadose and saturated-zone nitrate lag times using long-term groundwater monitoring data and statistical machine learning, *Submitted (Apr 15, 2020)*
-
-- Samiul Haque, Edgar Lobaton, **Natalie Nelson**, Craig Yencho, Kenneth Pecota, Russel Mierop, Michael Kudenov, Mike Boyette, and Cranos M Williams, Computer vision approach to characterize size and shape phenotypes of  horticultural crops using high-throughput imagery, *Submitted (Jul 9, 2020)*  
-
 - **Alice Alonso&#42;**, **Natalie G. Nelson**, Simeon Yurek, David Kaplan, Maitane Olabarrieta, and Peter Frederick, Estimating the influence of oyster reef chains on freshwater detention at the estuary scale using Landsat-8 imagery, *Submitted (Aug 5, 2020)*  
 
 - Eric Milbrandt, Alfonse J. Martignette, Mark Thompson, Richard Bartleson, Edward J. Phlips, Susan Badylak, and **Natalie G. Nelson**, Extensive hypoxic zone observed on the shallow inner shelf of southwest Florida (USA) during a major red tide event, *Submitted (Dec 22, 2020)*
@@ -74,7 +74,7 @@ of streams in the Southeast Piedmont (USA)?](https://doi.org/10.3390/w12051485),
 
 - **Sheila Saia&#42;**, **Natalie G. Nelson**, Sierra Young, and Steven Hall, Rainfall and Shellfish Harvest Closures Along the North Carolina Coast, *NC Cooperative Extension*, Fact Sheet, *Under review*  
 
-- **Sheila Saia&#42;** and **Natalie G. Nelson**, Getting Data from the National Agricultural Statistics Service (NASS) Using R, *NC Cooperative Extension*, Fact Sheet, *Under review*  
+- **Sheila Saia&#42;**, **Natalie G. Nelson**, and Jason Ward, Getting Data from the National Agricultural Statistics Service (NASS) Using R, *NC Cooperative Extension*, Fact Sheet, *Under review*  
 
 - **Natalie Von Tress&#42;&#42;**, **Natalie G. Nelson**, and Sierra Young, Detecting Blue-Green Algal Blooms with Satellite Imagery, *NC Cooperative Extension*, Fact Sheet, *Under review*  
 
