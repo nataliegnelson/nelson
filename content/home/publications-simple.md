@@ -19,11 +19,17 @@ weight = 20
 
 **2021**
 
-- Martin J. Wells, Troy E. Gilmore, **Natalie G. Nelson**, Aaron Mittelstet, and JK Böhlke (2021), Determination of vadose and saturated-zone nitrate lag times using long-term groundwater monitoring data and statistical machine learning, *Hydrology and Earth System Sciences*, In press
+- **Lise R. Montefiore&#42;&#42;** and **Natalie G. Nelson**, Can a parsimonious water quality model effectively estimate runoff-driven nutrient loads to estuarine systems? A national-scale comparison of STEPL and SPARROW, (submitted Feb 11, 2021)  
 
-- Samiul Haque, Edgar Lobaton, **Natalie Nelson**, Craig Yencho, Kenneth Pecota, Russel Mierop, Michael Kudenov, Mike Boyette, and Cranos M Williams (2021), Computer vision approach to characterize size and shape phenotypes of  horticultural crops using high-throughput imagery, *Computers and Electronics in Agriculture*, In press  
+- Eric Milbrandt, Alfonse J. Martignette, Mark Thompson, Richard Bartleson, Edward J. Phlips, Susan Badylak, and **Natalie G. Nelson**, Extensive hypoxic zone observed on the shallow inner shelf of southwest Florida (USA) during a major red tide event, *In review* (submitted Dec 22, 2020)  
 
-- Tiffany Messer, Trisha Moore, **Natalie G. Nelson**, Laurent Ahiablame, Eban Bean, Chelsie Boles, Sonja Cook, Steven Hall, John McMaine, and Derek Schlea (2021), Constructed Treatment Wetlands for Agroecosystems: A Synthesis for Nutrient Removal, *Transactions of the ASABE*, In press
+- **Alice Alonso&#42;**, **Natalie G. Nelson**, Simeon Yurek, David Kaplan, Maitane Olabarrieta, and Peter Frederick, Estimating the influence of oyster reef chains on freshwater detention at the estuary scale using Landsat-8 imagery, *In review* (submitted Aug 5, 2020)  
+
+- Martin J. Wells, Troy E. Gilmore, **Natalie G. Nelson**, Aaron Mittelstet, and JK Böhlke (2021), Determination of vadose and saturated-zone nitrate lag times using long-term groundwater monitoring data and statistical machine learning, *Hydrology and Earth System Sciences*, *In press*
+
+- Samiul Haque, Edgar Lobaton, **Natalie Nelson**, Craig Yencho, Kenneth Pecota, Russel Mierop, Michael Kudenov, Mike Boyette, and Cranos M Williams (2021), Computer vision approach to characterize size and shape phenotypes of  horticultural crops using high-throughput imagery, *Computers and Electronics in Agriculture*, *In press*  
+
+- Tiffany Messer, Trisha Moore, **Natalie G. Nelson**, Laurent Ahiablame, Eban Bean, Chelsie Boles, Sonja Cook, Steven Hall, John McMaine, and Derek Schlea (2021), Constructed Treatment Wetlands for Agroecosystems: A Synthesis for Nutrient Removal, *Transactions of the ASABE*, *In press*
 
 **2020**  
 
@@ -61,14 +67,6 @@ of streams in the Southeast Piedmont (USA)?](https://doi.org/10.3390/w12051485),
 - **Natalie G. Nelson**, Rafael Muñoz-Carpena, Patrick J. Neale, Maria Tzortziou, and J. Patrick Megonigal (2017), [Temporal variability in the importance of hydrologic, biotic, and climatic descriptors of dissolved oxygen dynamics in a shallow tidal-marsh creek](http://onlinelibrary.wiley.com/doi/10.1002/2016WR020196/abstract), *Water Resources Research*, 53, 7103-7120. doi:10.1002/2016WR020196  
 
 - **Natalie G. Nelson**, Rafael Muñoz-Carpena, and Edward J. Phlips (2017), [A novel quantile method reveals spatiotemporal shifts in phytoplankton descriptors between bloom and non-bloom conditions in a subtropical estuary](http://www.int-res.com/abstracts/meps/v567/p57-78/), *Marine Ecology Progress Series*, 567:57-78. doi:10.3354/meps12054  
-
-**Submitted and Under Review:**
-
-- **Alice Alonso&#42;**, **Natalie G. Nelson**, Simeon Yurek, David Kaplan, Maitane Olabarrieta, and Peter Frederick, Estimating the influence of oyster reef chains on freshwater detention at the estuary scale using Landsat-8 imagery, *Submitted (Aug 5, 2020)*  
-
-- Eric Milbrandt, Alfonse J. Martignette, Mark Thompson, Richard Bartleson, Edward J. Phlips, Susan Badylak, and **Natalie G. Nelson**, Extensive hypoxic zone observed on the shallow inner shelf of southwest Florida (USA) during a major red tide event, *Submitted (Dec 22, 2020)*  
-
-- **Lise R. Montefiore&#42;&#42;**, **Natalie G. Nelson**, Can a parsimonious water quality model effectively estimate runoff-driven nutrient loads to estuarine systems? A national-scale comparison of STEPL and SPARROW, *Submitted (Feb 11, 2021)*
 
 **Peer-Reviewed Extension and Teaching Publications:**  
 
