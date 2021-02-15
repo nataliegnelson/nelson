@@ -14,4 +14,4 @@ caption = ""
 
 +++
 
-The [Southeast Coastal Ocean Observing Regional Association](https://secoora.org/) (SECOORA) will fund the development of ShellBase, a water quality database for shellfish waters in NC, SC, GA, and FL. ShellBase team members include Dr. Natalie Nelson, Dr. Sheila Saia, and Megan Carr from NC State, and Dr. Dwayne Porter, Jeremy Cothran, and Dan Ramage from the University of South Carolina.  
+The [Southeast Coastal Ocean Observing Regional Association](https://secoora.org/) (SECOORA) will fund the development of ShellBase, a water quality database for shellfish waters in NC, SC, GA, and FL. ShellBase team members include Dr. Natalie Nelson, Dr. Sheila Saia, and Megan Carr from NC State, and Dr. Dwayne Porter, Jeremy Cothran, and Dan Ramage from the University of South Carolina. Learn more [here](https://secoora.org/meet-the-winners-of-the-enhancing-regional-ocean-data-sharing-project/).  
