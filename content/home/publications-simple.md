@@ -25,7 +25,7 @@ weight = 20
 
 - **Alice Alonso&#42;**, **Natalie G. Nelson**, Simeon Yurek, David Kaplan, Maitane Olabarrieta, and Peter Frederick, Estimating the influence of oyster reef chains on freshwater detention at the estuary scale using Landsat-8 imagery, *In review* (submitted Aug 5, 2020)  
 
-- Martin J. Wells, Troy E. Gilmore, **Natalie G. Nelson**, Aaron Mittelstet, and JK Böhlke (2021), Determination of vadose and saturated-zone nitrate lag times using long-term groundwater monitoring data and statistical machine learning, *Hydrology and Earth System Sciences*, *In press*
+- Martin J. Wells, Troy E. Gilmore, **Natalie G. Nelson**, Aaron Mittelstet, and JK Böhlke (2021), [Determination of vadose and saturated-zone nitrate lag times using long-term groundwater monitoring data and statistical machine learning](https://hess.copernicus.org/articles/25/811/2021/), *Hydrology and Earth System Sciences*, 25: 811–829
 
 - Samiul Haque, Edgar Lobaton, **Natalie Nelson**, Craig Yencho, Kenneth Pecota, Russel Mierop, Michael Kudenov, Mike Boyette, and Cranos M Williams (2021), Computer vision approach to characterize size and shape phenotypes of  horticultural crops using high-throughput imagery, *Computers and Electronics in Agriculture*, *In press*  
 
