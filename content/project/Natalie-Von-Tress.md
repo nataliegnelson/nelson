@@ -1,12 +1,12 @@
 +++
 # Date this page was created.
-date = "2018-01-18"
+date = "2018-01-17"
 
 # Project title.
 title = "Natalie Von Tress"
 
 # Project summary to display on homepage.
-summary = "MS Student & NSF Graduate Research Fellow"
+summary = "MS Student (Bio & Ag Eng.) & NSF Graduate Research Fellow"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "VonTress.png"

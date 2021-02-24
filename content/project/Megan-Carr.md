@@ -1,12 +1,12 @@
 +++
 # Date this page was created.
-date = "2018-01-17"
+date = "2018-01-16"
 
 # Project title.
 title = "Megan Carr"
 
 # Project summary to display on homepage.
-summary = "MS Student, Co-Advised by Dr. Lucie Guertault"
+summary = "MS Student (Bio & Ag Eng.), Co-Advised by Dr. Lucie Guertault"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "Megan.JPG"
