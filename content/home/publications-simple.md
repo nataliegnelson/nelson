@@ -27,7 +27,7 @@ weight = 20
 
 - Martin J. Wells, Troy E. Gilmore, **Natalie G. Nelson**, Aaron Mittelstet, and JK Böhlke (2021), [Determination of vadose and saturated-zone nitrate lag times using long-term groundwater monitoring data and statistical machine learning](https://hess.copernicus.org/articles/25/811/2021/), *Hydrology and Earth System Sciences*, 25: 811–829
 
-- Samiul Haque, Edgar Lobaton, **Natalie Nelson**, Craig Yencho, Kenneth Pecota, Russel Mierop, Michael Kudenov, Mike Boyette, and Cranos M Williams (2021), Computer vision approach to characterize size and shape phenotypes of  horticultural crops using high-throughput imagery, *Computers and Electronics in Agriculture*, *In press*  
+- Samiul Haque, Edgar Lobaton, **Natalie Nelson**, Craig Yencho, Kenneth Pecota, Russel Mierop, Michael Kudenov, Mike Boyette, and Cranos M Williams (2021), [Computer vision approach to characterize size and shape phenotypes of  horticultural crops using high-throughput imagery](https://doi.org/10.1016/j.compag.2021.106011), *Computers and Electronics in Agriculture*, 182: 106011  
 
 - Tiffany Messer, Trisha Moore, **Natalie G. Nelson**, Laurent Ahiablame, Eban Bean, Chelsie Boles, Sonja Cook, Steven Hall, John McMaine, and Derek Schlea (2021), Constructed Treatment Wetlands for Agroecosystems: A Synthesis for Nutrient Removal, *Transactions of the ASABE*, *In press*
 
