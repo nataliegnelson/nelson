@@ -13,17 +13,19 @@ widget = "custom"
 weight = 20
 
 +++
-*Asterisks indicate an author is/was a postdoctoral (&#42;), graduate (&#42;&#42;) or undergraduate (&#42;&#42;&#42;) researcher in the Biosystems Analytics Lab*  
+*Asterisks indicate an author is/was a postdoctoral (&#42;), graduate (&#42;&#42;), or undergraduate (&#42;&#42;&#42;) researcher in the Biosystems Analytics Lab*  
 
 **Peer-Reviewed Research Publications:**  
 
 **2021**
 
-- **Lise R. Montefiore&#42;&#42;** and **Natalie G. Nelson**, Can a parsimonious water quality model effectively estimate runoff-driven nutrient loads to estuarine systems? A national-scale comparison of STEPL and SPARROW, (submitted Feb 11, 2021)  
+- Angela Harris, **Emine Fidan&#42;&#42;**, **Natalie G. Nelson**, Ryan Emanuel, Theo Jass, Sophia Kathariou, Jeffrey Niedermeyer, Mahmoud Sharara, Francis de los Reyes III, Diego Riveros-Iregui, Jill Stewart, Microbial Contamination in Environmental Waters of Rural and Agriculturally-Dominated Landscapes Following Hurricane Florence (submitted Mar 12, 2021)
+
+- **Lise R. Montefiore&#42;&#42;** and **Natalie G. Nelson**, Can a parsimonious water quality model effectively estimate runoff-driven nutrient loads to estuarine systems? A national-scale comparison of STEPL and SPARROW (submitted Feb 11, 2021)  
 
 - Eric Milbrandt, Alfonse J. Martignette, Mark Thompson, Richard Bartleson, Edward J. Phlips, Susan Badylak, and **Natalie G. Nelson**, Extensive hypoxic zone observed on the shallow inner shelf of southwest Florida (USA) during a major red tide event, *In review* (submitted Dec 22, 2020)  
 
-- **Alice Alonso&#42;**, **Natalie G. Nelson**, Simeon Yurek, David Kaplan, Maitane Olabarrieta, and Peter Frederick, Estimating the influence of oyster reef chains on freshwater detention at the estuary scale using Landsat-8 imagery, *In review* (submitted Aug 5, 2020)  
+- **Alice Alonso&#42;**, **Natalie G. Nelson**, Simeon Yurek, David Kaplan, Maitane Olabarrieta, and Peter Frederick, Estimating the influence of oyster reef chains on freshwater detention at the estuary scale using Landsat-8 imagery, *In revision* (submitted Aug 5, 2020)  
 
 - Martin J. Wells, Troy E. Gilmore, **Natalie G. Nelson**, Aaron Mittelstet, and JK Böhlke (2021), [Determination of vadose and saturated-zone nitrate lag times using long-term groundwater monitoring data and statistical machine learning](https://hess.copernicus.org/articles/25/811/2021/), *Hydrology and Earth System Sciences*, 25: 811–829
 
