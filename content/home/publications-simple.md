@@ -19,6 +19,8 @@ weight = 20
 
 **2021**
 
+- Nandita B. Basu, Kimberly Van Meter, Roy Brouwer, Danyka K. Byrnes, Maria C. Cunha, Georgia Destouni, Brian H. Jacobsen, Jerker Jarsjö, **Natalie Nelson**, Søren Bøye Olsen, David L. Rudolph, Philippe Van Cappellen, Managing Nitrogen Legacies to Accelerate Water Quality Improvement (submitted, March 19, 2021)
+
 - **Sheila Saia&#42;**, **Natalie G. Nelson**, Sierra N. Young, Stanton Parham, Micah Vandegrift, Ten Simple Rules for Researchers Who Want to Develop Web Apps (submitted Mar 18, 2021)  
 
 - Angela Harris, **Emine Fidan&#42;&#42;**, **Natalie G. Nelson**, Ryan Emanuel, Theo Jass, Sophia Kathariou, Jeffrey Niedermeyer, Mahmoud Sharara, Francis de los Reyes III, Diego Riveros-Iregui, Jill Stewart, Microbial Contamination in Environmental Waters of Rural and Agriculturally-Dominated Landscapes Following Hurricane Florence (submitted Mar 12, 2021)
