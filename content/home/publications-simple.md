@@ -19,6 +19,8 @@ weight = 20
 
 **2021**
 
+- **Sheila Saia&#42;**, **Natalie G. Nelson**, Sierra N. Young, Stanton Parham, Micah Vandegrift, Ten Simple Rules for Researchers Who Want to Develop Web Apps (submitted Mar 18, 2021)  
+
 - Angela Harris, **Emine Fidan&#42;&#42;**, **Natalie G. Nelson**, Ryan Emanuel, Theo Jass, Sophia Kathariou, Jeffrey Niedermeyer, Mahmoud Sharara, Francis de los Reyes III, Diego Riveros-Iregui, Jill Stewart, Microbial Contamination in Environmental Waters of Rural and Agriculturally-Dominated Landscapes Following Hurricane Florence (submitted Mar 12, 2021)
 
 - **Lise R. Montefiore&#42;&#42;** and **Natalie G. Nelson**, Can a parsimonious water quality model effectively estimate runoff-driven nutrient loads to estuarine systems? A national-scale comparison of STEPL and SPARROW (submitted Feb 11, 2021)  
