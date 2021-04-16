@@ -19,7 +19,7 @@ weight = 20
 
 **2021**
 
-- Nandita B. Basu, Kimberly Van Meter, Roy Brouwer, Danyka K. Byrnes, Maria C. Cunha, Georgia Destouni, Brian H. Jacobsen, Jerker Jarsjö, **Natalie Nelson**, Søren Bøye Olsen, David L. Rudolph, Philippe Van Cappellen, Managing Nitrogen Legacies to Accelerate Water Quality Improvement (submitted, March 19, 2021)
+- Nandita B. Basu, Kimberly Van Meter, Roy Brouwer, Danyka K. Byrnes, Maria C. Cunha, Georgia Destouni, Brian H. Jacobsen, Jerker Jarsjö, **Natalie G. Nelson**, Søren Bøye Olsen, David L. Rudolph, Philippe Van Cappellen, Managing Nitrogen Legacies to Accelerate Water Quality Improvement (submitted, March 19, 2021)
 
 - **Sheila Saia&#42;**, **Natalie G. Nelson**, Sierra N. Young, Stanton Parham, Micah Vandegrift, Ten Simple Rules for Researchers Who Want to Develop Web Apps (submitted Mar 18, 2021)  
 
@@ -35,7 +35,7 @@ weight = 20
 
 - Samiul Haque, Edgar Lobaton, **Natalie Nelson**, Craig Yencho, Kenneth Pecota, Russel Mierop, Michael Kudenov, Mike Boyette, and Cranos M Williams (2021), [Computer vision approach to characterize size and shape phenotypes of  horticultural crops using high-throughput imagery](https://doi.org/10.1016/j.compag.2021.106011), *Computers and Electronics in Agriculture*, 182: 106011  
 
-- Tiffany Messer, Trisha Moore, **Natalie G. Nelson**, Laurent Ahiablame, Eban Bean, Chelsie Boles, Sonja Cook, Steven Hall, John McMaine, and Derek Schlea (2021), Constructed Treatment Wetlands for Agroecosystems: A Synthesis for Nutrient Removal, *Transactions of the ASABE*, *In press*
+- Tiffany Messer, Trisha Moore, **Natalie G. Nelson**, Laurent Ahiablame, Eban Bean, Chelsie Boles, Sonja Cook, Steven Hall, John McMaine, and Derek Schlea (2021), [Constructed Treatment Wetlands for Agroecosystems: A Synthesis for Nutrient Removal](https://elibrary.asabe.org/abstract.asp?AID=52167&t=3&dabs=Y&redir=&redirType=), *Transactions of the ASABE*, 64(2): 625-639
 
 **2020**  
 
@@ -76,12 +76,12 @@ of streams in the Southeast Piedmont (USA)?](https://doi.org/10.3390/w12051485),
 
 **Peer-Reviewed Extension and Teaching Publications:**  
 
+- **Sheila Saia&#42;**, **Natalie G. Nelson**, and Jason Ward (2021), Getting Data from the National Agricultural Statistics Service (NASS) Using R, *NC Cooperative Extension*, Fact Sheet, *In press*  
+
+- **Natalie Von Tress&#42;&#42;**, **Natalie G. Nelson**, and Sierra Young (2021), Detecting Blue-Green Algal Blooms with Satellite Imagery, *NC Cooperative Extension*, Fact Sheet, *In press*  
+
+- **Sheila Saia&#42;**, **Natalie G. Nelson**, Sierra Young, and Steven Hall (2021), [Rainfall and Shellfish Harvest Closures Along the North Carolina Coast](https://content.ces.ncsu.edu/shellfish-leases-and-harvest-closures-along-the-north-carolina-coast), *NC Cooperative Extension*, Fact Sheet AG-898  
+
+- **Natalie G. Nelson** (2021), [Problem-Centered Data Science Education in the Agricultural and Biological Engineering Classroom: Analyzing Air Quality Index Data in R](https://elibrary.asabe.org/abstract.asp?aid=52093), *Transactions of the ASABE*, Peer-Reviewed Teaching Module  
+
 - **Natalie G. Nelson**, **Layla El-Khoury&#42;&#42;&#42;**, and Mike Boyette (2020), [Interpreting Freeze / Frost Probabilities from the National Centers for Environmental Information](https://content.ces.ncsu.edu/interpreting-freezefrost-probabilities-from-the-national-centers-for-environmental-information), *NC Cooperative Extension*, Fact Sheet AG-873  
-
-- **Sheila Saia&#42;**, **Natalie G. Nelson**, Sierra Young, and Steven Hall, Rainfall and Shellfish Harvest Closures Along the North Carolina Coast, *NC Cooperative Extension*, Fact Sheet, *Under review*  
-
-- **Sheila Saia&#42;**, **Natalie G. Nelson**, and Jason Ward, Getting Data from the National Agricultural Statistics Service (NASS) Using R, *NC Cooperative Extension*, Fact Sheet, *Under review*  
-
-- **Natalie Von Tress&#42;&#42;**, **Natalie G. Nelson**, and Sierra Young, Detecting Blue-Green Algal Blooms with Satellite Imagery, *NC Cooperative Extension*, Fact Sheet, *Under review*  
-
-- **Natalie G. Nelson**, Problem-Centered Data Science Education in the Agricultural and Biological Engineering Classroom: Analyzing Air Quality Index Data in R, *Transactions of the ASABE*, Peer-Reviewed Teaching Module, *In press*  

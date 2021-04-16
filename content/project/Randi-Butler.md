@@ -6,7 +6,7 @@ date = "2018-01-18"
 title = "Randi Butler"
 
 # Project summary to display on homepage.
-summary = "PhD Student (Geospatial Analytics)"
+summary = "Incoming PhD Student (Geospatial Analytics)"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "Randi.jpeg"
