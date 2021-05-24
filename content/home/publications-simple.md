@@ -19,17 +19,17 @@ weight = 20
 
 **2021**
 
-- Nandita B. Basu, Kimberly Van Meter, Roy Brouwer, Danyka K. Byrnes, Maria C. Cunha, Georgia Destouni, Brian H. Jacobsen, Jerker Jarsjö, **Natalie G. Nelson**, Søren Bøye Olsen, David L. Rudolph, Philippe Van Cappellen, Managing Nitrogen Legacies to Accelerate Water Quality Improvement (submitted, March 19, 2021)
+- Nandita B. Basu, Kimberly Van Meter, Roy Brouwer, Danyka K. Byrnes, Maria C. Cunha, Georgia Destouni, Brian H. Jacobsen, Jerker Jarsjö, **Natalie G. Nelson**, Søren Bøye Olsen, David L. Rudolph, Philippe Van Cappellen, Managing Nitrogen Legacies to Accelerate Water Quality Improvement, *In review* (submitted, March 19, 2021)
 
-- **Sheila Saia&#42;**, **Natalie G. Nelson**, Sierra N. Young, Stanton Parham, Micah Vandegrift, Ten Simple Rules for Researchers Who Want to Develop Web Apps (submitted Mar 18, 2021)  
+- **Sheila Saia&#42;**, **Natalie G. Nelson**, Sierra N. Young, Stanton Parham, Micah Vandegrift, Ten Simple Rules for Researchers Who Want to Develop Web Apps, *In review* (submitted Mar 18, 2021)  
 
-- Angela Harris, **Emine Fidan&#42;&#42;**, **Natalie G. Nelson**, Ryan Emanuel, Theo Jass, Sophia Kathariou, Jeffrey Niedermeyer, Mahmoud Sharara, Francis de los Reyes III, Diego Riveros-Iregui, Jill Stewart, Microbial Contamination in Environmental Waters of Rural and Agriculturally-Dominated Landscapes Following Hurricane Florence (submitted Mar 12, 2021)
+- Angela Harris, **Emine Fidan&#42;&#42;**, **Natalie G. Nelson**, Ryan Emanuel, Theo Jass, Sophia Kathariou, Jeffrey Niedermeyer, Mahmoud Sharara, Francis de los Reyes III, Diego Riveros-Iregui, Jill Stewart, Microbial Contamination in Environmental Waters of Rural and Agriculturally-Dominated Landscapes Following Hurricane Florence, *In revision* (submitted Mar 12, 2021)
 
-- **Lise R. Montefiore&#42;&#42;** and **Natalie G. Nelson**, Can a parsimonious water quality model effectively estimate runoff-driven nutrient loads to estuarine systems? A national-scale comparison of STEPL and SPARROW (submitted Feb 11, 2021)  
+- **Lise R. Montefiore&#42;&#42;** and **Natalie G. Nelson**, Can a parsimonious water quality model effectively estimate runoff-driven nutrient loads to estuarine systems? A national-scale comparison of STEPL and SPARROW, *In review* (submitted Feb 11, 2021)  
 
-- Eric Milbrandt, Alfonse J. Martignette, Mark Thompson, Richard Bartleson, Edward J. Phlips, Susan Badylak, and **Natalie G. Nelson**, Extensive hypoxic zone observed on the shallow inner shelf of southwest Florida (USA) during a major red tide event, *In review* (submitted Dec 22, 2020)  
+- Eric Milbrandt, Alfonse J. Martignette, Mark Thompson, Richard Bartleson, Edward J. Phlips, Susan Badylak, and **Natalie G. Nelson**, Extensive hypoxic zone observed on the shallow inner shelf of southwest Florida (USA) during a major red tide event, *In revision* (submitted Dec 22, 2020)  
 
-- **Alice Alonso&#42;**, **Natalie G. Nelson**, Simeon Yurek, David Kaplan, Maitane Olabarrieta, and Peter Frederick, Estimating the influence of oyster reef chains on freshwater detention at the estuary scale using Landsat-8 imagery, *In revision* (submitted Aug 5, 2020)  
+- **Alice Alonso&#42;**, **Natalie G. Nelson**, Simeon Yurek, David Kaplan, Maitane Olabarrieta, and Peter Frederick, Estimating the influence of oyster reef chains on freshwater detention at the estuary scale using Landsat-8 imagery, *Accepted, in press*   
 
 - Martin J. Wells, Troy E. Gilmore, **Natalie G. Nelson**, Aaron Mittelstet, and JK Böhlke (2021), [Determination of vadose and saturated-zone nitrate lag times using long-term groundwater monitoring data and statistical machine learning](https://hess.copernicus.org/articles/25/811/2021/), *Hydrology and Earth System Sciences*, 25: 811–829
 
