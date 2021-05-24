@@ -30,6 +30,10 @@ caption = ""
 
 **Visiting Scholars**  
 
+- [Dr. Sheila Saia](https://sheilasaia.rbind.io/). Sheila is the Associate Director of the North Carolina State Climate Office.  
+
+**Visiting Scholars**  
+
 - [Dr. Alice Alonso](https://www.linkedin.com/in/alicealonso/). Alice is a postdoctoral researcher at Université catholique de Louvain, Belgium.  
 
 **Undergraduate Research Assistants**  
