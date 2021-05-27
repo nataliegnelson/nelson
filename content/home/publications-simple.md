@@ -27,7 +27,7 @@ weight = 20
 
 - **Lise R. Montefiore&#42;&#42;** and **Natalie G. Nelson**, Can a parsimonious water quality model effectively estimate runoff-driven nutrient loads to estuarine systems? A national-scale comparison of STEPL and SPARROW, *In review* (submitted Feb 11, 2021)  
 
-- Eric Milbrandt, Alfonse J. Martignette, Mark Thompson, Richard Bartleson, Edward J. Phlips, Susan Badylak, and **Natalie G. Nelson**, Extensive hypoxic zone observed on the shallow inner shelf of southwest Florida (USA) during a major red tide event, *In revision* (submitted Dec 22, 2020)  
+- Eric Milbrandt, Alfonse J. Martignette, Mark Thompson, Richard Bartleson, Edward J. Phlips, Susan Badylak, and **Natalie G. Nelson** (2021), Extensive hypoxic zone observed on the shallow inner shelf of southwest Florida (USA) during a major red tide event, *Accepted, In press*
 
 - **Alice Alonso&#42;**, **Natalie G. Nelson**, Simeon Yurek, David Kaplan, Maitane Olabarrieta, and Peter Frederick (2021), [Estimating the influence of oyster reef chains on freshwater detention at the estuary scale using Landsat-8 imagery](https://doi.org/10.1007/s12237-021-00959-6), *In press*   
 
@@ -78,7 +78,7 @@ of streams in the Southeast Piedmont (USA)?](https://doi.org/10.3390/w12051485),
 
 - **Sheila Saia&#42;**, **Natalie G. Nelson**, and Jason Ward (2021), Getting Data from the National Agricultural Statistics Service (NASS) Using R, *NC Cooperative Extension*, Fact Sheet, *In press*  
 
-- **Natalie Von Tress&#42;&#42;**, **Natalie G. Nelson**, and Sierra Young (2021), Detecting Blue-Green Algal Blooms with Satellite Imagery, *NC Cooperative Extension*, Fact Sheet, *In press*  
+- **Natalie Von Tress&#42;&#42;**, **Natalie G. Nelson**, and Sierra Young (2021), [Supporting Cyanobacterial Bloom Monitoring with Satellite Imagery](https://content.ces.ncsu.edu/supporting-cyanobacterial-bloom-monitoring-with-satellite-imagery), *NC Cooperative Extension*, Fact Sheet AG-902  
 
 - **Sheila Saia&#42;**, **Natalie G. Nelson**, Sierra Young, and Steven Hall (2021), [Rainfall and Shellfish Harvest Closures Along the North Carolina Coast](https://content.ces.ncsu.edu/shellfish-leases-and-harvest-closures-along-the-north-carolina-coast), *NC Cooperative Extension*, Fact Sheet AG-898  
 
