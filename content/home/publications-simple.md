@@ -27,9 +27,9 @@ weight = 20
 
 - **Lise R. Montefiore&#42;&#42;** and **Natalie G. Nelson**, Can a parsimonious water quality model effectively estimate runoff-driven nutrient loads to estuarine systems? A national-scale comparison of STEPL and SPARROW, *In review* (submitted Feb 11, 2021)  
 
-- Eric Milbrandt, Alfonse J. Martignette, Mark Thompson, Richard Bartleson, Edward J. Phlips, Susan Badylak, and **Natalie G. Nelson** (2021), Extensive hypoxic zone observed on the shallow inner shelf of southwest Florida (USA) during a major red tide event, *Accepted, In press*
+- Eric Milbrandt, Alfonse J. Martignette, Mark Thompson, Richard Bartleson, Edward J. Phlips, Susan Badylak, and **Natalie G. Nelson** (2021), Geospatial distribution of hypoxia associated with a Karenia brevis bloom, *Estuarine, Coastal and Shelf Science*, In press
 
-- **Alice Alonso&#42;**, **Natalie G. Nelson**, Simeon Yurek, David Kaplan, Maitane Olabarrieta, and Peter Frederick (2021), [Estimating the influence of oyster reef chains on freshwater detention at the estuary scale using Landsat-8 imagery](https://doi.org/10.1007/s12237-021-00959-6), *In press*   
+- **Alice Alonso&#42;**, **Natalie G. Nelson**, Simeon Yurek, David Kaplan, Maitane Olabarrieta, and Peter Frederick (2021), [Estimating the influence of oyster reef chains on freshwater detention at the estuary scale using Landsat-8 imagery](https://doi.org/10.1007/s12237-021-00959-6), *Estuaries and Coasts*, In press  
 
 - Martin J. Wells, Troy E. Gilmore, **Natalie G. Nelson**, Aaron Mittelstet, and JK Böhlke (2021), [Determination of vadose and saturated-zone nitrate lag times using long-term groundwater monitoring data and statistical machine learning](https://hess.copernicus.org/articles/25/811/2021/), *Hydrology and Earth System Sciences*, 25: 811–829
 
@@ -76,7 +76,7 @@ of streams in the Southeast Piedmont (USA)?](https://doi.org/10.3390/w12051485),
 
 **Peer-Reviewed Extension and Teaching Publications:**  
 
-- **Sheila Saia&#42;**, **Natalie G. Nelson**, and Jason Ward (2021), Getting Data from the National Agricultural Statistics Service (NASS) Using R, *NC Cooperative Extension*, Fact Sheet, *In press*  
+- **Sheila Saia&#42;**, **Natalie G. Nelson**, and Jason Ward (2021), [Getting Data from the National Agricultural Statistics Service (NASS) Using R](https://content.ces.ncsu.edu/getting-data-from-the-national-agricultural-statistics-service-nass-using-r), *NC Cooperative Extension*, *NC Cooperative Extension*, Fact Sheet AG-903 
 
 - **Natalie Von Tress&#42;&#42;**, **Natalie G. Nelson**, and Sierra Young (2021), [Supporting Cyanobacterial Bloom Monitoring with Satellite Imagery](https://content.ces.ncsu.edu/supporting-cyanobacterial-bloom-monitoring-with-satellite-imagery), *NC Cooperative Extension*, Fact Sheet AG-902  
 
