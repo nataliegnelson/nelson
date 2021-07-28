@@ -19,11 +19,13 @@ weight = 20
 
 **2021**
 
-- Edward J. Phlips, Susan Badylak, **Natalie G. Nelson**, Lauren M. Hall, Charles A. Jacoby, Margaret A. Lasi, Jean C. Lockwood, Jan Miller, Cyclical patterns and a regime shift in the character of phytoplankton blooms in a restricted sub-tropical lagoon, Indian River Lagoon, Florida, USA, *Submitted* (June 25, 2021)
+- **Lise R. Montefiore&#42;&#42;**, **Natalie G. Nelson**, **Amanda Dean&#42;&#42;&#42;**, Mahmoud Sharara, Reconstructing the historical expansion of concentrated swine feeding operations from Landsat imagery, *Submitted* (July 29, 2021)
 
-- **Lise R. Montefiore&#42;&#42;**, **Natalie G. Nelson**, **Amanda Dean&#42;&#42;&#42;**, Mahmoud Sharara, Reconstructing the historical expansion of concentrated swine feeding operations from Landsat imagery, *Submitted* (June 23, 2021)
+- Enrique Peña Martinez, Jason K. Ward, Guy Collins, **Natalie G. Nelson**, Comparison of a manual and UAV-based method to detect skip size and frequency in cotton stands, *In review* (submitted July 16, 2021)
 
-- Nandita B. Basu, Kimberly Van Meter, Roy Brouwer, Danyka K. Byrnes, Maria C. Cunha, Georgia Destouni, Brian H. Jacobsen, Jerker Jarsjö, **Natalie G. Nelson**, Søren Bøye Olsen, David L. Rudolph, Philippe Van Cappellen, Managing Nitrogen Legacies to Accelerate Water Quality Improvement, *In review* (submitted, March 19, 2021)
+- Edward J. Phlips, Susan Badylak, **Natalie G. Nelson**, Lauren M. Hall, Charles A. Jacoby, Margaret A. Lasi, Jean C. Lockwood, Jan Miller, Cyclical patterns and a regime shift in the character of phytoplankton blooms in a restricted sub-tropical lagoon, Indian River Lagoon, Florida, USA, *In review* (submitted June 25, 2021)
+
+- Nandita B. Basu, Kimberly Van Meter, Roy Brouwer, Danyka K. Byrnes, Maria C. Cunha, Georgia Destouni, Brian H. Jacobsen, Jerker Jarsjö, **Natalie G. Nelson**, Søren Bøye Olsen, David L. Rudolph, Philippe Van Cappellen, Managing Nitrogen Legacies to Accelerate Water Quality Improvement, *In review* (submitted March 19, 2021)
 
 - **Sheila Saia&#42;**, **Natalie G. Nelson**, Sierra N. Young, Stanton Parham, Micah Vandegrift, Ten Simple Rules for Researchers Who Want to Develop Web Apps, *In revision* (submitted Mar 18, 2021)  
 
