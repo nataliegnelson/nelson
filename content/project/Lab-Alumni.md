@@ -44,6 +44,8 @@ caption = ""
 
 **P4 Summer Undergraduate Research Fellows**  
 
+- [Anjel Iriaghomo](https://www.linkedin.com/in/airiagh). Anjel is finishing her BS in Animal Science at Clemson University.  
+- [Brea Sorrells](https://www.linkedin.com/in/basorr?trk=public_profile_samename-profile). Brea is finishing her BS in Biosystems Engineering at University of Tennessee at Knoxville.
 - [Asya Macon](https://www.linkedin.com/in/asya-macon-080677189/). As of fall 2020, Asya is a Graduate Research Assistant and MS student at the University of Nebraska Lincoln.  
 - [Amanda Dean](https://www.linkedin.com/in/amandadean10/). As of summer 2020, Amanda is a MS student with the Institute of Advanced Analytics at NC State University.
 

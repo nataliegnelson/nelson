@@ -19,6 +19,8 @@ weight = 20
 
 **2021**
 
+- **Natalie G. Nelson**, Maude L. Cuchiara, Christine Ogilvie Hendren, Jacob L. Jones, Anna-Maria Marshall, Hazardous Spills at Retired Fertilizer Manufacturing Plants Will Continue to Occur in the Absence of Scientific Innovation and Regulatory Enforcement, *In review* (submitted August 6, 2021)  
+
 - **Lise R. Montefiore&#42;&#42;**, **Natalie G. Nelson**, **Amanda Dean&#42;&#42;&#42;**, Mahmoud Sharara, Reconstructing the historical expansion of concentrated swine feeding operations from Landsat imagery, *Submitted* (July 29, 2021)
 
 - Enrique Peña Martinez, Jason K. Ward, Guy Collins, **Natalie G. Nelson**, Comparison of a manual and UAV-based method to detect skip size and frequency in cotton stands, *In review* (submitted July 16, 2021)
@@ -81,6 +83,8 @@ of streams in the Southeast Piedmont (USA)?](https://doi.org/10.3390/w12051485),
 - **Natalie G. Nelson**, Rafael Muñoz-Carpena, and Edward J. Phlips (2017), [A novel quantile method reveals spatiotemporal shifts in phytoplankton descriptors between bloom and non-bloom conditions in a subtropical estuary](http://www.int-res.com/abstracts/meps/v567/p57-78/), *Marine Ecology Progress Series*, 567:57-78. doi:10.3354/meps12054  
 
 **Peer-Reviewed Extension and Teaching Publications:**  
+
+- **Anjel Iriaghomo&#42;&#42;&#42;**, **Brea Sorrells&#42;&#42;&#42;**, **Lise R. Montefiore&#42;&#42;**, Piyush Patil, **Natalie G. Nelson**, Mahmoud Sharara, How Does Nitrogen Move Through a Pig Farm?, NC Cooperative Extension, *In review* (submitted August 16, 2021)
 
 - **Sheila Saia&#42;**, **Natalie G. Nelson**, and Jason Ward (2021), [Getting Data from the National Agricultural Statistics Service (NASS) Using R](https://content.ces.ncsu.edu/getting-data-from-the-national-agricultural-statistics-service-nass-using-r), *NC Cooperative Extension*, *NC Cooperative Extension*, Fact Sheet AG-903 
 
