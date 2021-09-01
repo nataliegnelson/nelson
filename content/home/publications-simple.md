@@ -19,19 +19,19 @@ weight = 20
 
 **2021**
 
+- **Lise R. Montefiore&#42;&#42;**, **Natalie G. Nelson**, **Amanda Dean&#42;&#42;&#42;**, Mahmoud Sharara, Reconstructing the historical expansion of industrial swine production in North Carolina (USA) from Landsat imagery, *Submitted* (Aug 30, 2021)  
+
 - **Natalie G. Nelson**, Maude L. Cuchiara, Christine Ogilvie Hendren, Jacob L. Jones, Anna-Maria Marshall, Hazardous Spills at Retired Fertilizer Manufacturing Plants Will Continue to Occur in the Absence of Scientific Innovation and Regulatory Enforcement, *In revision* (submitted August 6, 2021)  
 
-- **Lise R. Montefiore&#42;&#42;**, **Natalie G. Nelson**, **Amanda Dean&#42;&#42;&#42;**, Mahmoud Sharara, Reconstructing the historical expansion of concentrated swine feeding operations from Landsat imagery, *Submitted* (July 29, 2021)
-
 - Enrique Peña Martinez, Jason K. Ward, Guy Collins, **Natalie G. Nelson**, Comparison of a manual and UAV-based method to detect skip size and frequency in cotton stands, *In review* (submitted July 16, 2021)
-
-- Edward J. Phlips, Susan Badylak, **Natalie G. Nelson**, Lauren M. Hall, Charles A. Jacoby, Margaret A. Lasi, Jean C. Lockwood, Jan Miller, Cyclical patterns and a regime shift in the character of phytoplankton blooms in a restricted sub-tropical lagoon, Indian River Lagoon, Florida, USA, *In revision* (submitted June 25, 2021)
 
 - Nandita B. Basu, Kimberly Van Meter, Roy Brouwer, Danyka K. Byrnes, Maria C. Cunha, Georgia Destouni, Brian H. Jacobsen, Jerker Jarsjö, **Natalie G. Nelson**, Søren Bøye Olsen, David L. Rudolph, Philippe Van Cappellen, Managing Nitrogen Legacies to Accelerate Water Quality Improvement, *In revision* (submitted March 19, 2021)
 
 - **Sheila Saia&#42;**, **Natalie G. Nelson**, Sierra N. Young, Stanton Parham, Micah Vandegrift, Ten Simple Rules for Researchers Who Want to Develop Web Apps, *In revision* (submitted Mar 18, 2021). Preprint [here](https://eartharxiv.org/repository/view/2545/).  
 
 - **Lise R. Montefiore&#42;&#42;** and **Natalie G. Nelson**, Can a parsimonious water quality model effectively estimate runoff-driven nutrient loads to estuarine systems? A national-scale comparison of STEPL and SPARROW, *In revision* (submitted Feb 11, 2021)  
+
+- Edward J. Phlips, Susan Badylak, **Natalie G. Nelson**, Lauren M. Hall, Charles A. Jacoby, Margaret A. Lasi, Jean C. Lockwood, Jan Miller, Cyclical patterns and a regime shift in the character of phytoplankton blooms in a restricted sub-tropical lagoon, Indian River Lagoon, Florida, USA, *Frontiers in Marine Science*, Accepted
 
 - Angela Harris, **Emine Fidan&#42;&#42;**, **Natalie G. Nelson**, Ryan Emanuel, Theo Jass, Sophia Kathariou, Jeffrey Niedermeyer, Mahmoud Sharara, Francis de los Reyes III, Diego Riveros-Iregui, Jill Stewart (2021), [Microbial Contamination in Environmental Waters of Rural and Agriculturally-Dominated Landscapes Following Hurricane Florence](https://pubs.acs.org/doi/10.1021/acsestwater.1c00103), *Environmental Science & Technology Water*, In press  
   - Press release: [Human, Swine Waste Pose Dual Threats to Water Quality After Flooding](https://news.ncsu.edu/2021/08/dual-water-threats-after-flooding/)  
